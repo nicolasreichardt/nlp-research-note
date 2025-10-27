@@ -1,3 +1,5 @@
+![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
+
 # Course: Natural Language Processing
 # Research Note
 
@@ -16,3 +18,13 @@
 # Author
 
 # Repo structure
+
+nlp-research-note/
+├── data/
+│   ├── raw/
+│   ├── extracted_text/
+├── notebooks/
+│   ├── NLP_pipeline.ipynb
+├── utils/
+│   ├── extract_pdf_contents.py
+│   ├── clean_EU_text.py
