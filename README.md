@@ -19,6 +19,7 @@
 
 # Repo structure
 
+'''
 nlp-research-note/
 ├── data/
 │   ├── raw/
@@ -28,3 +29,5 @@ nlp-research-note/
 ├── utils/
 │   ├── extract_pdf_contents.py
 │   ├── clean_EU_text.py
+'''
+
