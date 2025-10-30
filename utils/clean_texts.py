@@ -73,7 +73,12 @@ def clean_EU_legal_text(text):
         r'author ities': 'authorities',
         r'compet ent': 'competent',
         r'monito r': 'monitor',
-        r'confi dentiality': 'confidentiality',
+        r'exam ple': 'example',
+        r'militar y': 'military',
+        r'necessar y': 'necessary',
+        r'syste ms': 'systems',
+
+
     }
     
     for broken, fixed in broken_words.items():
@@ -85,6 +90,9 @@ def clean_EU_legal_text(text):
     text = re.sub(r'â€', '"', text)
     text = re.sub(r'â€"', '—', text)
     text = re.sub(r'â€"', '–', text)
+    text = re.sub(r',Äô', '\'', text)
+    text = re.sub(r',Äò', '\'', text)    
+
     
     # Remove "Having regard to..." sections
     text = re.sub(r'Having regard to[^,\n]+[,\n]', '', text, flags=re.IGNORECASE)
@@ -153,12 +161,6 @@ def clean_EU_legal_text(text):
     text = '\n'.join(lines)
     
     return text
-
-
-
-
-
-import re
 
 def clean_US_legal_text(text):
     """
