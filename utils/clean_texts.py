@@ -76,7 +76,17 @@ def clean_EU_legal_text(text):
         r'exam ple': 'example',
         r'militar y': 'military',
         r'necessar y': 'necessary',
+        r'High-r': 'higher',
+        r'high-r': 'higher',
         r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems',
+        r'syste ms': 'systems'
 
 
     }

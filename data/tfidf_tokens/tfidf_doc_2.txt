@@ -33,8 +33,8 @@ development: 0.0248
 into: 0.0087
 service: 0.0070
 use: 0.0567
-ai: 0.1834
 systems: 0.0195
+ai: 0.1834
 accordance: 0.0021
 with: 0.1043
 promote: 0.0066
@@ -164,6 +164,7 @@ key: 0.0029
 competitive: 0.0008
 beneficial: 0.0004
 outcomes: 0.0021
+example: 0.0008
 healthcare: 0.0054
 agriculture: 0.0012
 education: 0.0058
@@ -324,7 +325,6 @@ pursue: 0.0008
 affected: 0.0004
 10: 0.0087
 life: 0.0008
-confidentiality: 0.0021
 communications: 0.0008
 way: 0.0004
 providing: 0.0037
@@ -472,7 +472,6 @@ commercial: 0.0008
 cannot: 0.0004
 integration: 0.0004
 means: 0.0124
-example: 0.0008
 online: 0.0008
 only: 0.0008
 help: 0.0066
@@ -528,6 +527,7 @@ gate: 0.0008
 presence: 0.0008
 relevant: 0.0145
 control: 0.0008
+necessary: 0.0066
 office: 0.0054
 determined: 0.0008
 great: 0.0004
@@ -590,6 +590,7 @@ make: 0.0029
 efforts: 0.0062
 align: 0.0012
 er: 0.0004
+military: 0.0012
 entity: 0.0004
 carrying: 0.0004
 force: 0.0033
@@ -805,6 +806,7 @@ blue: 0.0004
 guide: 0.0017
 legislation: 0.0004
 avoid: 0.0004
+unnecessary: 0.0004
 burdens: 0.0004
 find: 0.0008
 instance: 0.0004
@@ -864,12 +866,12 @@ draw: 0.0008
 guidance: 0.0215
 tional: 0.0037
 consulting: 0.0004
+examples: 0.0004
 insofar: 0.0004
 sensitive: 0.0004
 cybersecurity: 0.0041
 disruptions: 0.0021
 but: 0.0012
-examples: 0.0004
 cloud: 0.0008
 acquire: 0.0004
 share: 0.0017
@@ -996,7 +998,6 @@ built: 0.0008
 inform: 0.0021
 stop: 0.0004
 enhanced: 0.0004
-74: 0.0004
 declared: 0.0004
 misleading: 0.0004
 measurement: 0.0004
@@ -1231,6 +1232,7 @@ committee: 0.0037
 standardization: 0.0004
 ee: 0.0004
 telecommunications: 0.0012
+confidentiality: 0.0021
 hold: 0.0008
 safeguard: 0.0004
 members: 0.0029
@@ -1324,6 +1326,7 @@ mation: 0.0025
 collaboration: 0.0025
 official: 0.0008
 languages: 0.0004
+74: 0.0004
 viii: 0.0017
 hand: 0.0004
 manufacturer: 0.0004
@@ -1609,7 +1612,6 @@ underserved: 0.0029
 careful: 0.0006
 engagement: 0.0041
 rigorous: 0.0012
-necessary: 0.0093
 deploying: 0.0029
 abuse: 0.0023
 cfr659: 0.0006
@@ -2167,7 +2169,6 @@ directing: 0.0012
 memorandum: 0.0041
 deputy: 0.0017
 interagency: 0.0070
-military: 0.0017
 outline: 0.0006
 depart: 0.0006
 ca: 0.0006
@@ -2198,7 +2199,6 @@ program: 0.0151
 cfr: 0.0035
 skilled: 0.0012
 tinue: 0.0006
-unnecessary: 0.0006
 interruption: 0.0006
 cfr674: 0.0006
 categories: 0.0006
