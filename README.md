@@ -1,33 +1,100 @@
 ![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
 
-# Course: Natural Language Processing
-# Research Note
+# GRAD-E1282: Natural Language Processing
+# Instructor: Dr. Sascha Göbel
 
-# Safety Concerns on modern AI evolution in the USA and the EU: an NLP approach 
+# Exploring Themes in AI Regulation: A Comparative NLP Study between the EU and the USA
 
-# Abstract
+## Abstract
+This project explores the themes and topics surrounding AI regulation in Europe and the USA using Natural Language Processing (NLP) techniques. Through text extraction, cleaning, tokenization, and feature extraction, the project aims to uncover insights from the two main legal documents: (1) the EU AI Act and (2) the American AI Executive Order . The analysis is conducted as part of my NLP class at the Hertie School taught by Dr. Sascha Göbel.
 
+---
 
+## Author
+Nicolas Reichardt
 
+---
 
-
-
-
-
-
-# Author
-
-# Repo structure
-
-'''
+## Repo Structure
+```
 nlp-research-note/
 ├── data/
-│   ├── raw/
-│   ├── extracted_text/
+│   ├── raw/                     # Raw PDF files
+│   ├── extracted_text/          # Extracted text from PDFs
+│   ├── cleaned_text/            # Cleaned text files
+│   ├── tokens/                  # Tokenized text files
+│   ├── tfidf_values/            # TF-IDF values
+│   ├── embeddings/              # Word2Vec embeddings
 ├── notebooks/
-│   ├── NLP_pipeline.ipynb
+│   ├── NLP_pipeline.ipynb       # Main Jupyter notebook for the pipeline
 ├── utils/
-│   ├── extract_pdf_contents.py
-│   ├── clean_EU_text.py
-'''
+│   ├── extract_pdf_contents.py  # PDF text extraction utility
+│   ├── clean_texts.py           # Text cleaning utility
+│   ├── TFIDF_model.py           # TF-IDF computation utility
+│   ├── word2vec_module.py       # Word2Vec model utility
+│   ├── tsne_visualization.py    # t-SNE visualization utility
+├── plots/                       # Directory for saving plots
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+```
 
+---
+
+## Installation and Setup
+
+### Prerequisites
+- Python 3.10 or higher
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/nlp-research-note.git
+cd nlp-research-note
+```
+
+### Create a Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Usage
+
+### Run the Jupyter Notebook
+1. Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+2. Open `notebooks/NLP_pipeline.ipynb` and run the cells step by step.
+
+---
+
+## Features
+- **Text Extraction**: Extracts text from legal PDF documents.
+- **Text Cleaning**: Cleans and preprocesses the extracted text.
+- **Tokenization**: Tokenizes the cleaned text using SpaCy.
+- **Feature Extraction**: Computes Bag of Words (BoW), TF-IDF, and Word2Vec embeddings.
+- **Visualization**: Generates t-SNE plots for Word2Vec embeddings.
+- **Mathematical Analysis**: Measures similarity and performs dimensionality reduction.
+
+---
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## AI use statement:
+
+Generative AI tools like GitHub Copilot and Claude were consulted for coding support, proofreading and LaTeX formatting. All final answers were developed and verified by the author.
