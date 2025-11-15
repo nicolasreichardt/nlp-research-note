@@ -90,11 +90,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## AI use statement:
 
 Generative AI tools like GitHub Copilot and Claude were consulted for coding support, proofreading and LaTeX formatting. All final answers were developed and verified by the author.
