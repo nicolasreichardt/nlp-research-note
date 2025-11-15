@@ -25,13 +25,13 @@ def compute_tfidf(texts):
     feature_names = vectorizer.get_feature_names_out()
     return feature_names, tfidf_matrix
 
-def save_tfidf_tokens(output_dir, feature_names, tfidf_matrix):
+def save_tfidf_values(output_dir, feature_names, tfidf_matrix):
     """
-    Save TF-IDF tokens and their scores to text files.
+    Save TF-IDF values and their scores to text files.
     
     Args:
-        output_dir (str): Directory to save the TF-IDF tokens.
-        feature_names (list of str): List of feature names (tokens).
+        output_dir (str): Directory to save the TF-IDF values.
+        feature_names (list of str): List of feature names.
         tfidf_matrix (scipy.sparse.csr_matrix): TF-IDF scores matrix.
     """
     if not os.path.exists(output_dir):
@@ -44,7 +44,7 @@ def save_tfidf_tokens(output_dir, feature_names, tfidf_matrix):
                 token = feature_names[col_idx]
                 score = row[0, col_idx]
                 file.write(f"{token}: {score:.4f}\n")
-        print(f"TF-IDF tokens saved to: {output_file}")
+        print(f"TF-IDF values saved to: {output_file}")
 
 if __name__ == "__main__":
     # Paths to the cleaned text files
@@ -59,6 +59,6 @@ if __name__ == "__main__":
         # Compute TF-IDF
         feature_names, tfidf_matrix = compute_tfidf([text1, text2])
         
-        # Save TF-IDF tokens
-        output_directory = "data/tfidf_tokens"
-        save_tfidf_tokens(output_directory, feature_names, tfidf_matrix)
+        # Save TF-IDF values
+        output_directory = "data/tfidf_values"
+        save_tfidf_values(output_directory, feature_names, tfidf_matrix)
