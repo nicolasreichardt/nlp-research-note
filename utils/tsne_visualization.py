@@ -9,7 +9,7 @@ def plot_tsne_embeddings(embeddings, words, output_path):
     :param words: List of words corresponding to the embeddings.
     :param output_path: Path to save the t-SNE plot.
     """
-    tsne = TSNE(n_components=2, random_state=42, perplexity=30, max_iter=1000)
+    tsne = TSNE(n_components=2, random_state=42, perplexity=30, n_iter=1000)
     reduced_embeddings = tsne.fit_transform(embeddings)
     
     plt.figure(figsize=(12, 12))
