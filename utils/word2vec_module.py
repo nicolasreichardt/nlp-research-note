@@ -1,4 +1,5 @@
 from gensim.models import Word2Vec
+import numpy as np
 
 class Word2VecModel:
     def __init__(self, vector_size=100, window=5, min_count=1, workers=4):
@@ -51,3 +52,72 @@ class Word2VecModel:
             return self.model.wv[word]
         else:
             raise ValueError(f"Word '{word}' not in vocabulary or model not loaded.")
+
+    def most_similar(self, word, topn=5):
+        """
+        Find the most similar words to a given word.
+        :param word: The target word.
+        :param topn: Number of similar words to return.
+        :return: List of (word, similarity) tuples.
+        """
+        if self.model and word in self.model.wv:
+            return self.model.wv.most_similar(word, topn=topn)
+        else:
+            raise ValueError(f"Word '{word}' not in vocabulary or model not loaded.")
+
+    def similarity(self, word1, word2):
+        """
+        Compute cosine similarity between two words.
+        :param word1: First word.
+        :param word2: Second word.
+        :return: Similarity score.
+        """
+        if self.model and word1 in self.model.wv and word2 in self.model.wv:
+            return self.model.wv.similarity(word1, word2)
+        else:
+            raise ValueError(f"One or both words not in vocabulary or model not loaded.")
+
+    def document_vector(self, tokens):
+        """
+        Compute the average vector representation of a document.
+        :param tokens: List of tokens in the document.
+        :return: Average vector of the document.
+        """
+        if not self.model:
+            raise ValueError("Model has not been trained yet.")
+        
+        vectors = []
+        for token in tokens:
+            if token in self.model.wv:
+                vectors.append(self.model.wv[token])
+        
+        if vectors:
+            return np.mean(vectors, axis=0)
+        else:
+            return np.zeros(self.vector_size)
+
+    def cosine_similarity(self, vec1, vec2):
+        """
+        Compute cosine similarity between two vectors.
+        :param vec1: First vector.
+        :param vec2: Second vector.
+        :return: Cosine similarity score.
+        """
+        dot_product = np.dot(vec1, vec2)
+        norm1 = np.linalg.norm(vec1)
+        norm2 = np.linalg.norm(vec2)
+        
+        if norm1 == 0 or norm2 == 0:
+            return 0.0
+        
+        return dot_product / (norm1 * norm2)
+
+    def most_similar_to_document(self, tokens, topn=5):
+        """
+        Find words most similar to a document.
+        :param tokens: List of tokens in the document.
+        :param topn: Number of similar words to return.
+        :return: List of (word, similarity) tuples.
+        """
+        doc_vector = self.document_vector(tokens)
+        return self.model.wv.similar_by_vector(doc_vector, topn=topn)
