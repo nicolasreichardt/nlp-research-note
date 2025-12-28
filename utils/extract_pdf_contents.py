@@ -1,21 +1,23 @@
 import os
 import PyPDF2
+import pdfplumber
 
 def extract_text_from_pdf(pdf_path):
-    """Extract text from a single PDF file."""
+    """Extract text from a single PDF file using pdfplumber."""
     try:
-        with open(pdf_path, 'rb') as file:
-            reader = PyPDF2.PdfReader(file)
+        with pdfplumber.open(pdf_path) as pdf:
             text = ""
-            for page in reader.pages:
-                text += page.extract_text()
+            for page in pdf.pages:
+                page_text = page.extract_text()
+                if page_text:
+                    text += page_text
             return text
     except Exception as e:
         print(f"Error reading {pdf_path}: {e}")
         return None
 
 def process_pdfs(input_dir, output_dir):
-    """Extract text from all PDFs in the input directory and save to the output directory."""
+    """Extract text from all PDFs in the input directory using pdfplumber."""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -30,8 +32,3 @@ def process_pdfs(input_dir, output_dir):
                 print(f"Extracted text saved to: {output_file}")
             else:
                 print(f"Failed to extract text from: {pdf_path}")
-
-if __name__ == "__main__":
-    input_directory = "raw"  # Directory containing the PDF files
-    output_directory = "extracted_text"  # Directory to save the extracted text files
-    process_pdfs(input_directory, output_directory)

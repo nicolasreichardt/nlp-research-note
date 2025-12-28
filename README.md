@@ -3,19 +3,24 @@
 # GRAD-E1282: Natural Language Processing
 # Instructor: Dr. Sascha Göbel
 
-# Exploring Themes in AI Regulation: A Comparative NLP Study between the EU and the USA
+## Term paper - Nicolas Reichardt, 245611
+
+---
+
+## Exploring Themes in AI Regulation: A Comparative NLP Study between the EU and the USA
 
 ## Abstract
 This project explores the themes and topics surrounding AI regulation in Europe and the USA using Natural Language Processing (NLP) techniques. Through text extraction, cleaning, tokenization, and feature extraction, the project aims to uncover insights from the two main legal documents: (1) the EU AI Act and (2) the American AI Executive Order . The analysis is conducted as part of my NLP class at the Hertie School taught by Dr. Sascha Göbel.
 
+See the accompanying [paper](PLACEHOLDER.pdf).
+
+## Overview
+
+ADD OVERVIEW HERE
+
 ---
 
-## Author
-Nicolas Reichardt
-
----
-
-## Repo Structure
+## Repository Structure
 ```
 nlp-research-note/
 ├── data/
@@ -88,8 +93,10 @@ pip install -r requirements.txt
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
----
-
 ## AI use statement:
 
-Generative AI tools like GitHub Copilot and Claude were consulted for coding support, proofreading and LaTeX formatting. All final answers were developed and verified by the author.
+Generative AI tools like GitHub Copilot and Claude were consulted for writing support, LaTeX formatting, and general coding/linting support. All final answers were developed and verified by the author.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
