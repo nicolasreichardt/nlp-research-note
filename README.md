@@ -67,6 +67,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### Download Pretrained Word2Vec Model
+
+The Word2Vec model is too large to include in the repository. Download it using:
+
+```python
+import gensim.downloader as api
+model = api.load("word2vec-google-news-300")
+```
 ---
 
 ## Usage

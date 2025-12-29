@@ -1,0 +1,21 @@
+# Large model files
+*.model
+*.bin
+*.pkl
+*.pickle
+gensim-data/
+models/
+
+# Word2Vec specific
+*word2vec*
+*w2v*
+*.kv
+
+# Cache and data folders that may contain large files
+data/models/
+data/embeddings/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

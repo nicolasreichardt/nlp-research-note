@@ -1,4 +1,4 @@
-from gensim.models import Word2Vec
+from gensim.models import Word2Vec, KeyedVectors
 import numpy as np
 
 class Word2VecModel:
@@ -11,6 +11,19 @@ class Word2VecModel:
         self.min_count = min_count
         self.workers = workers
         self.model = None
+
+    def _get_keyed_vectors(self):
+        """
+        Get the KeyedVectors object from the model.
+        Works with both Word2Vec models and standalone KeyedVectors.
+        """
+        if self.model is None:
+            return None
+        if isinstance(self.model, KeyedVectors):
+            return self.model
+        elif hasattr(self.model, 'wv'):
+            return self.model.wv
+        return None
 
     def train(self, sentences):
         """
@@ -31,7 +44,10 @@ class Word2VecModel:
         :param filepath: Path to save the model.
         """
         if self.model:
-            self.model.save(filepath)
+            if isinstance(self.model, KeyedVectors):
+                self.model.save(filepath)
+            else:
+                self.model.save(filepath)
         else:
             raise ValueError("Model has not been trained yet.")
 
@@ -40,7 +56,10 @@ class Word2VecModel:
         Load a Word2Vec model from the specified filepath.
         :param filepath: Path to load the model from.
         """
-        self.model = Word2Vec.load(filepath)
+        try:
+            self.model = Word2Vec.load(filepath)
+        except Exception:
+            self.model = KeyedVectors.load(filepath)
 
     def get_vector(self, word):
         """
@@ -48,10 +67,10 @@ class Word2VecModel:
         :param word: Word to retrieve the vector for.
         :return: Vector representation of the word.
         """
-        if self.model and word in self.model.wv:
-            return self.model.wv[word]
-        else:
-            raise ValueError(f"Word '{word}' not in vocabulary or model not loaded.")
+        kv = self._get_keyed_vectors()
+        if kv is not None and word in kv:
+            return kv[word]
+        return None
 
     def most_similar(self, word, topn=5):
         """
@@ -60,10 +79,11 @@ class Word2VecModel:
         :param topn: Number of similar words to return.
         :return: List of (word, similarity) tuples.
         """
-        if self.model and word in self.model.wv:
-            return self.model.wv.most_similar(word, topn=topn)
+        kv = self._get_keyed_vectors()
+        if kv is not None and word in kv:
+            return kv.most_similar(word, topn=topn)
         else:
-            raise ValueError(f"Word '{word}' not in vocabulary or model not loaded.")
+            raise KeyError(f"Word '{word}' not in vocabulary or model not loaded.")
 
     def similarity(self, word1, word2):
         """
@@ -72,10 +92,11 @@ class Word2VecModel:
         :param word2: Second word.
         :return: Similarity score.
         """
-        if self.model and word1 in self.model.wv and word2 in self.model.wv:
-            return self.model.wv.similarity(word1, word2)
+        kv = self._get_keyed_vectors()
+        if kv is not None and word1 in kv and word2 in kv:
+            return kv.similarity(word1, word2)
         else:
-            raise ValueError(f"One or both words not in vocabulary or model not loaded.")
+            raise KeyError(f"One or both words not in vocabulary or model not loaded.")
 
     def document_vector(self, tokens):
         """
@@ -83,13 +104,11 @@ class Word2VecModel:
         :param tokens: List of tokens in the document.
         :return: Average vector of the document.
         """
-        if not self.model:
-            raise ValueError("Model has not been trained yet.")
+        kv = self._get_keyed_vectors()
+        if kv is None:
+            raise ValueError("Model has not been trained or loaded yet.")
         
-        vectors = []
-        for token in tokens:
-            if token in self.model.wv:
-                vectors.append(self.model.wv[token])
+        vectors = [kv[token] for token in tokens if token in kv]
         
         if vectors:
             return np.mean(vectors, axis=0)
@@ -99,9 +118,6 @@ class Word2VecModel:
     def cosine_similarity(self, vec1, vec2):
         """
         Compute cosine similarity between two vectors.
-        :param vec1: First vector.
-        :param vec2: Second vector.
-        :return: Cosine similarity score.
         """
         dot_product = np.dot(vec1, vec2)
         norm1 = np.linalg.norm(vec1)
@@ -115,9 +131,9 @@ class Word2VecModel:
     def most_similar_to_document(self, tokens, topn=5):
         """
         Find words most similar to a document.
-        :param tokens: List of tokens in the document.
-        :param topn: Number of similar words to return.
-        :return: List of (word, similarity) tuples.
         """
+        kv = self._get_keyed_vectors()
+        if kv is None:
+            raise ValueError("Model has not been trained or loaded yet.")
         doc_vector = self.document_vector(tokens)
-        return self.model.wv.similar_by_vector(doc_vector, topn=topn)
+        return kv.similar_by_vector(doc_vector, topn=topn)
