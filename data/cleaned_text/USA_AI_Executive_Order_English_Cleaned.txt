@@ -48,11 +48,11 @@ cally developed and operated in a secure manner, and are compliant with
 applicable Federal laws and policies. Finally, my Administration will help
 develop effective labeling and content provenance mechanisms, so that
 Americans are able to determine when content is generated using AI and
-657 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+657 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 when it is not. These actions will provide a vital foundation for an ap-
 proach that addresses AI’s risks without unduly reducing its benefits.
@@ -106,12 +106,12 @@ promote robust technical evaluations, careful oversight, engagement with
 affected communities, and rigorous regulation. It is necessary to hold those
 developing and deploying AI accountable to standards that protect against
 unlawful discrimination and abuse, including in the justice system and the
-658 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+658 
+ 
+ 
+ 
+ 
+ 
 Federal Government. Only then can Americans trust AI to advance civil
 rights, civil liberties, equity, and justice for all.
 (e) The interests of Americans who increasingly use, interact with, or
@@ -163,11 +163,11 @@ deploy technology responsibly—and building and promoting those safe-
 guards with the rest of the world. My Administration will engage with
 international allies and partners in developing a framework to manage AI’s
 risks, unlock AI’s potential for good, and promote common approaches to
-659 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+659 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 shared challenges. The Federal Government will seek to promote respon-
 sible AI safety and security principles and actions with other nations, in-
@@ -217,12 +217,12 @@ List Update issued by the National Science and Technology Council
 1016(e) of the USA PATRIOT Act of 2001, 42 U.S.C. 5195c(e).
 (j) The term ‘‘differential-privacy guarantee’’ means protections that
 allow information about a group to be shared while provably limiting the
-660 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+660 
+ 
+ 
+ 
+ 
+ 
 improper access, use, or disclosure of personal information about particular
 entities.
 (k) The term ‘‘dual-use foundation model’’ means an AI model that is
@@ -270,11 +270,11 @@ tive meanings given to those terms in section 5 of Executive Order 13984.
 (r) The term ‘‘integer operation’’ means any mathematical operation or
 assignment involving only integers, or whole numbers expressed without
 a decimal point.
-661 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+661 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (s) The term ‘‘Intelligence Community’’ has the meaning given to that
 term in section 3.5(h) of Executive Order 12333 of December 4, 1981
@@ -321,12 +321,12 @@ erated by algorithms, including by AI.
 ducting rigorous, transparent, and replicable testing of tools and tech-
 nologies, including AI and PETs, to help evaluate the functionality,
 usability, and performance of those tools or technologies.
-662 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+662 
+ 
+ 
+ 
+ 
+ 
 (gg) The term ‘‘watermarking’’ means the act of embedding information,
 which is typically difficult to remove, into outputs created by AI—includ-
 ing into outputs such as photos, videos, audio clips, or text—for the pur-
@@ -376,11 +376,11 @@ retary shall undertake this work using existing solutions where possible,
 and shall develop these tools and AI testbeds to be capable of assessing
 near-term extrapolations of AI systems’ capabilities. At a minimum, the
 Secretary shall develop tools to evaluate AI capabilities to generate outputs
-663 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+663 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 that may represent nuclear, nonproliferation, biological, chemical, critical
 infrastructure, and energy-security threats or hazards. The Secretary shall
@@ -432,12 +432,12 @@ clusters that would be subject to the reporting requirements of subsection
 retary shall require compliance with these reporting requirements for:
 (i) any model that was trained using a quantity of computing power
 greater than 1026 integer or floating-point operations, or using primarily
-664 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+664 
+ 
+ 
+ 
+ 
+ 
 biological sequence data and using a quantity of computing power great-
 er than 1023integer or floating-point operations; and
 (ii) any computing cluster that has a set of machines physically co-lo-
@@ -489,11 +489,11 @@ cluster that has a set of machines physically co-located in a single
 datacenter, transitively connected by data center networking of over 100
 Gbit/s, and having a theoretical maximum compute capacity of 1020 inte-
 ger or floating-point operations per second for training AI.
-665 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+665 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (d) Within 180 days of the date of this order, pursuant to the finding set
 forth in subsection 4.2(c) of this section, the Secretary of Commerce shall
@@ -544,12 +544,12 @@ lation issued pursuant to this subsection. Such standards and procedures
 may include a finding by the Secretary that such foreign reseller, ac-
 count, or lessee complies with security best practices to otherwise deter
 abuse of United States IaaS Products.
-666 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+666 
+ 
+ 
+ 
+ 
+ 
 (e) The Secretary of Commerce is hereby authorized to take such actions,
 including the promulgation of rules and regulations, and to employ all
 powers granted to the President by the International Emergency Economic
@@ -597,11 +597,11 @@ tion in their areas of authority and responsibility.
 (v) The Secretary of Homeland Security shall establish an Artificial Intel-
 ligence Safety and Security Board as an advisory committee pursuant to
 section 871 of the Homeland Security Act of 2002 (Public Law 107–296).
-667 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+667 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 The Advisory Committee shall include AI experts from the private sec-
 tor, academia, and government, as appropriate, and provide to the Sec-
@@ -652,12 +652,12 @@ uators, as appropriate, to evaluate AI model capabilities to present CBRN
 threats—for the sole purpose of guarding against those threats—as well
 as options for minimizing the risks of AI model misuse to generate or
 exacerbate those threats; and
-668 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+668 
+ 
+ 
+ 
+ 
+ 
 (B) submit a report to the President that describes the progress of these
 efforts, including an assessment of the types of AI models that may
 present CBRN risks to the United States, and that makes recommenda-
@@ -708,11 +708,11 @@ logical sequences that could be used in a manner that would pose a risk
 to the national security of the United States; and
 (B) determine standardized methodologies and tools for conducting
 and verifying the performance of sequence synthesis procurement
-669 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+669 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 screening, including customer screening approaches to support due dili-
 gence with respect to managing security risks posed by purchasers of bi-
@@ -762,12 +762,12 @@ on any results of the activities conducted pursuant to subsection
 4.4(b)(iv)(A) of this section, including recommendations, if any, on how
 to strengthen nucleic acid synthesis procurement screening, including
 customer screening systems.
-670 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+670 
+ 
+ 
+ 
+ 
+ 
 4.5. Reducing the Risks Posed by Synthetic Content. To foster capabilities
 for identifying and labeling synthetic content produced by AI systems, and
 to establish the authenticity and provenance of digital content, both syn-
@@ -816,11 +816,11 @@ there can be substantial benefits to innovation, but also substantial security
 risks, such as the removal of safeguards within the model. To address the
 risks and potential benefits of dual-use foundation models with widely
 available weights, within 270 days of the date of this order, the Secretary
-671 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+671 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 of Commerce, acting through the Assistant Secretary of Commerce for Com-
 munications and Information, and in consultation with the Secretary of
@@ -872,12 +872,12 @@ view of all data assets in the comprehensive data inventory required under
 sistent with applicable law, to address the highest-priority potential secu-
 rity risks that releasing that data could raise with respect to CBRN weap-
 ons, such as the ways in which that data could be used to train AI systems.
-672 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+672 
+ 
+ 
+ 
+ 
+ 
 4.8. Directing the Development of a National Security Memorandum. To de-
 velop a coordinated executive branch approach to managing AI’s security
 risks, the Assistant to the President for National Security Affairs and the
@@ -928,11 +928,11 @@ CFR 41.111(b) to facilitate the ability of qualified applicants, including
 highly skilled talent in AI and critical and emerging technologies, to con-
 tinue their work in the United States without unnecessary interruption.
 (c) Within 180 days of the date of this order, the Secretary of State shall:
-673 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+673 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (i) consider initiating a rulemaking to expand the categories of non-
 immigrants who qualify for the domestic visa renewal program covered
@@ -984,12 +984,12 @@ emerging technologies, including:
 and emerging technologies to understand their options for working in the
 United States, to be published in multiple relevant languages on AI.gov;
 and
-674 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+674 
+ 
+ 
+ 
+ 
+ 
 (ii) a public report with relevant data on applications, petitions, approv-
 als, and other key indicators of how experts in AI and other critical and
 emerging technologies have utilized the immigration system through the
@@ -1041,11 +1041,11 @@ Trademark Office (USPTO Director) shall:
 patent examiners and applicants addressing inventorship and the use of
 AI, including generative AI, in the inventive process, including illus-
 trative examples in which AI systems play different roles in inventive
-675 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+675 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 processes and how, in each example, inventorship issues ought to be
 analyzed;
@@ -1095,12 +1095,12 @@ priate and consistent with applicable law and the activities directed in sec-
 tion 8 of this order, prioritize grantmaking and other awards, as well as un-
 dertake related efforts, to support responsible AI development and use, in-
 cluding:
-676 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+676 
+ 
+ 
+ 
+ 
+ 
 (i) collaborating with appropriate private sector actors through HHS pro-
 grams that may support the advancement of AI-enabled tools that de-
 velop personalized immune-response profiles for patients, consistent
@@ -1151,11 +1151,11 @@ tional security, including partnerships that increase community pre-
 paredness for climate-related risks, enable clean-energy deployment (in-
 cluding addressing delays in permitting reviews), and enhance grid reli-
 ability and resilience; and
-677 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+677 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (v) establish an office to coordinate development of AI and other critical
 and emerging technologies across Department of Energy programs and
@@ -1204,12 +1204,12 @@ lected, aggregated, or shared by CHIPS research and development pro-
 grams;
 (C) workforce development programs;
 (D) design and process technology, as well as IP, as appropriate; and
-678 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+678 
+ 
+ 
+ 
+ 
+ 
 (E) other resources, including technical and intellectual property as-
 sistance, that could accelerate commercialization of new technologies by
 startups and small businesses, as appropriate; and
@@ -1259,11 +1259,11 @@ ments. The report shall, at a minimum:
 (A) assess how current or formerly operational Federal programs de-
 signed to assist workers facing job disruptions—including unemploy-
 ment insurance and programs authorized by the Workforce Innovation
-679 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+679 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 and Opportunity Act (Public Law 113–128)—could be used to respond
 to possible future AI-related disruptions; and
@@ -1314,12 +1314,12 @@ Sec. 7. Advancing Equity and Civil Rights.
 7.1. Strengthening AI and Civil Rights in the Criminal Justice System. (a)
 To address unlawful discrimination and other harms that may be exacer-
 bated by AI, the Attorney General shall:
-680 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+680 
+ 
+ 
+ 
+ 
+ 
 (i) consistent with Executive Order 12250 of November 2, 1980 (Leader-
 ship and Coordination of Nondiscrimination Laws), Executive Order
 14091, and 28 CFR 0.50–51, coordinate with and support agencies in
@@ -1367,11 +1367,11 @@ spots’’;
 (A) identify areas where AI can enhance law enforcement efficiency
 and accuracy, consistent with protections for privacy, civil rights, and
 civil liberties; and
-681 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+681 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (B) recommend best practices for law enforcement agencies, including
 safeguards and appropriate use limits for AI, to address the concerns set
@@ -1422,12 +1422,12 @@ ment authorities. Agencies shall consider opportunities to ensure that their
 respective civil rights and civil liberties offices are appropriately consulted
 on agency decisions regarding the design, development, acquisition, and
 use of AI in Federal Government programs and benefits administration. To
-682 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+682 
+ 
+ 
+ 
+ 
+ 
 further these objectives, agencies shall also consider opportunities to in-
 crease coordination, communication, and engagement about AI as appro-
 priate with community-based organizations; civil-rights and civil-liberties
@@ -1477,11 +1477,11 @@ housing markets and consumer financial markets, the Director of the Fed-
 eral Housing Finance Agency and the Director of the Consumer Financial
 Protection Bureau are encouraged to consider using their authorities, as
 they deem appropriate, to require their respective regulated entities, where
-683 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+683 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 possible, to use appropriate methodologies including AI tools to ensure
 compliance with Federal law and:
@@ -1532,12 +1532,12 @@ healthcare, public-health, and human-services sectors:
 (i) Within 90 days of the date of this order, the Secretary of HHS shall,
 in consultation with the Secretary of Defense and the Secretary of Vet-
 erans Affairs, establish an HHS AI Task Force that shall, within 365 days
-684 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+684 
+ 
+ 
+ 
+ 
+ 
 of its creation, develop a strategic plan that includes policies and frame-
 works—possibly including regulatory action, as appropriate—on respon-
 sible deployment and use of AI and AI-enabled technologies in the
@@ -1586,11 +1586,11 @@ pects of the performance of AI-enabled healthcare tools—and infrastruc-
 ture needs for enabling pre-market assessment and post-market oversight
 of AI-enabled healthcare-technology algorithmic system performance
 against real-world data.
-685 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+685 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (iii) Within 180 days of the date of this order, the Secretary of HHS shall,
 in consultation with relevant agencies as the Secretary of HHS deems ap-
@@ -1635,12 +1635,12 @@ and
 section 4 of this order.
 (c) To promote the safe and responsible development and use of AI in
 the transportation sector, in consultation with relevant agencies:
-686 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+686 
+ 
+ 
+ 
+ 
+ 
 (i) Within 30 days of the date of this order, the Secretary of Transpor-
 tation shall direct the Nontraditional and Emerging Transportation Tech-
 nology (NETT) Council to assess the need for information, technical as-
@@ -1691,11 +1691,11 @@ oping education-specific guardrails.
 (e) The Federal Communications Commission is encouraged to consider
 actions related to how AI will affect communications networks and con-
 sumers, including by:
-687 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+687 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (i) examining the potential for AI to improve spectrum management, in-
 crease the efficiency of non-Federal spectrum usage, and expand oppor-
@@ -1746,12 +1746,12 @@ to use PETs to safeguard Americans’ privacy from the potential threats ex-
 acerbated by AI, the Secretary of Commerce, acting through the Director of
 NIST, shall create guidelines for agencies to evaluate the efficacy of dif-
 ferential-privacy-guarantee protections, including for AI. The guidelines
-688 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+688 
+ 
+ 
+ 
+ 
+ 
 shall, at a minimum, describe the significant factors that bear on differen-
 tial-privacy safeguards and common risks to realizing differential privacy
 in practice.
@@ -1802,11 +1802,11 @@ extent appropriate and consistent with applicable law:
 issuance of the guidance a Chief Artificial Intelligence Officer who shall
 hold primary responsibility in their agency, in coordination with other
 responsible officials, for coordinating their agency’s use of AI, promoting
-689 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+689 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 AI innovation in their agency, managing risks from their agency’s use of
 AI, and carrying out the responsibilities described in section 8(c) of Ex-
@@ -1853,12 +1853,12 @@ defined under subsection 10.1(b)(iv) of this section to procured AI;
 (E) independent evaluation of vendors’ claims concerning both the ef-
 fectiveness and risk mitigation of their AI offerings;
 (F) documentation and oversight of procured AI;
-690 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+690 
+ 
+ 
+ 
+ 
+ 
 (G) maximizing the value to agencies when relying on contractors to
 use and enrich Federal Government data for the purposes of AI develop-
 ment and operation;
@@ -1908,11 +1908,11 @@ specific risk assessments; establish guidelines and limitations on the ap-
 propriate use of generative AI; and, with appropriate safeguards in place,
 provide their personnel and programs with access to secure and reliable
 generative AI capabilities, at least for the purposes of experimentation
-691 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+691 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 and routine tasks that carry a low risk of impacting Americans’ rights.
 To protect Federal Government information, agencies are also encour-
@@ -1965,12 +1965,12 @@ force. Specified types of AI capabilities shall include generative AI and
 specialized computing infrastructure.
 (i) The initial means, instructions, and guidance issued pursuant to sub-
 sections 10.1(a)–(h) of this section shall not apply to AI when it is used
-692 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+692 
+ 
+ 
+ 
+ 
+ 
 as a component of a national security system, which shall be addressed by
 the proposed National Security Memorandum described in subsection 4.8
 of this order.
@@ -2021,11 +2021,11 @@ ent Task Force described in subsection 10.2(b) of this section, as appro-
 priate and permitted by law, shall develop and begin to implement plans
 to support the rapid recruitment of individuals as part of a Federal Govern-
 ment-wide AI talent surge to accelerate the placement of key AI and AI-
-693 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+693 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 enabling talent in high-priority areas and to advance agencies’ data and
 technology strategies.
@@ -2075,12 +2075,12 @@ erate personnel-vetting requirements, as appropriate, to support AI and
 fields related to other critical and emerging technologies.
 (e) To expand the use of special authorities for AI hiring and retention,
 agencies shall use all appropriate hiring authorities, including Schedule
-694 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+694 
+ 
+ 
+ 
+ 
+ 
 A(r) excepted service hiring and direct-hire authority, as applicable and ap-
 propriate, to hire AI talent and AI-enabling talent rapidly. In addition to
 participating in OPM-led pooled hiring actions, agencies shall collaborate,
@@ -2131,11 +2131,11 @@ national security by the Department of Defense and the Department of
 Homeland Security.
 Sec. 11. Strengthening American Leadership Abroad. (a) To strengthen
 United States leadership of global efforts to unlock AI’s potential and meet
-695 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+695 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 its challenges, the Secretary of State, in coordination with the Assistant to
 the President for National Security Affairs, the Assistant to the President
@@ -2186,12 +2186,12 @@ Management Framework’s principles, guidelines, and best practices into
 the social, technical, economic, governance, human rights, and security
 conditions of contexts beyond United States borders. As part of this
 work, the Secretary of State and the Administrator of the United States
-696 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14110
+696 
+ 
+ 
+ 
+ 
+ 
 Agency for International Development shall draw on lessons learned
 from programmatic uses of AI in global development.
 (ii) The Secretary of State and the Administrator of the United States
@@ -2239,11 +2239,11 @@ of the following members, or their designees:
 (v) the Secretary of Agriculture;
 (vi) the Secretary of Commerce;
 (vii) the Secretary of Labor;
-697 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+697 
+ 
+ 
+ 
+ 
 ettejamrEO 14110 Title 3—The President
 (viii) the Secretary of HHS;
 (ix) the Secretary of Housing and Urban Development;
@@ -2284,12 +2284,12 @@ relating to budgetary, administrative, or legislative proposals.
 subject to the availability of appropriations.
 (c) This order is not intended to, and does not, create any right or ben-
 efit, substantive or procedural, enforceable at law or in equity by any party
-698 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
-ettejamrExecutive Orders EO 14111
+698 
+ 
+ 
+ 
+ 
+ 
 against the United States, its departments, agencies, or entities, its officers,
 employees, or agents, or any other person.
 JOSEPH R. BIDEN, JR.
@@ -2327,9 +2327,9 @@ cies (agencies), designated by the heads of such agencies:
 (xvi) the Office of Management and Budget;
 (xvii) the Office of the Director of National Intelligence; and
 (xviii) the General Services Administration;
-699 \SGML\262006.XXX 262006
-RFC
-htiw
-DORP3YLW3NJPAL
-no
+699 
+ 
+ 
+ 
+ 
 ettejamr
