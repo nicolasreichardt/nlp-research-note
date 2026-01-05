@@ -56,6 +56,9 @@ def clean_EU_legal_text(text):
     # Remove "(Text with EEA relevance)"
     text = re.sub(r'\(Text with EEA relevance\)', '', text)
     
+    # Remove "p." page references
+    text = re.sub(r'\bp\.\s*', '', text)
+    
     # Normalize multiple spaces to single space
     text = re.sub(r' +', ' ', text)
     
@@ -100,6 +103,8 @@ def clean_US_legal_text(text):
         r"Y:\\SGML\\[A-Za-z0-9_.]+",
         # Remove lines containing code-like CFR references or production notes
         r"rmajette\s+on\s+\S+",
+        # Remove "p." page references
+        r"\bp\.\s*",
         # Remove redundant whitespace and line breaks
         r"\s{2,}",
         r"\\SGML\\\d+\.XXX\s*\d+",

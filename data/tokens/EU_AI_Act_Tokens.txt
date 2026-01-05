@@ -14,9 +14,7 @@ OF
 THE
 COUNCIL
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -60,12 +58,9 @@ and
 in
 particular
 Articles
-16
 and
-114
 thereof
 Whereas
-1
 The
 purpose
 of
@@ -217,7 +212,6 @@ authorised
 by
 this
 Regulation
-2
 This
 Regulation
 should
@@ -268,7 +262,6 @@ uptake
 of
 trustworthy
 AI
-3
 AI
 systems
 can
@@ -409,19 +402,12 @@ obligations
 for
 operators
 and
-1
 12.2021
 p.
-56
-2
 3.2022
 p.
-5
-3
 2.2022
 p.
-60
-4
 guaranteeing
 the
 uniform
@@ -446,7 +432,6 @@ the
 basis
 of
 Article
-114
 of
 the
 Treaty
@@ -550,7 +535,6 @@ are
 concerned
 on
 Article
-16
 TFEU
 In
 light
@@ -563,7 +547,6 @@ the
 recourse
 to
 Article
-16
 TFEU
 it
 is
@@ -575,7 +558,6 @@ European
 Data
 Protection
 Board
-4
 AI
 is
 a
@@ -683,7 +665,6 @@ change
 mitigation
 and
 adaptation
-5
 At
 the
 same
@@ -735,7 +716,6 @@ societal
 or
 economic
 harm
-6
 Given
 the
 major
@@ -773,7 +753,6 @@ as
 enshrined
 in
 Article
-2
 of
 the
 Treaty
@@ -794,7 +773,6 @@ and
 pursuant
 to
 Article
-6
 TEU
 the
 Charter
@@ -825,7 +803,6 @@ increasing
 human
 well
 being
-7
 In
 order
 to
@@ -1153,7 +1130,6 @@ by
 the
 European
 Parliament
-5
 European
 Council
 Special
@@ -1162,24 +1138,16 @@ of
 the
 European
 Council
-1
 and
-2
 October
-2020
 Conclusions
 EUCO
-2020
 p.
-6
-6
 European
 Parliament
 resolution
 of
-20
 October
-2020
 with
 recommendations
 to
@@ -1202,7 +1170,6 @@ INL
 OJ
 L
 12.7.2024
-9
 Harmonised
 rules
 applicable
@@ -1649,7 +1616,6 @@ affected
 by
 this
 Regulation
-10
 The
 fundamental
 right
@@ -1857,7 +1823,6 @@ to
 enjoy
 all
 the
-7
 Regulation
 EC
 No
@@ -1870,9 +1835,7 @@ of
 the
 Council
 of
-9
 July
-2008
 setting
 out
 the
@@ -1886,7 +1849,6 @@ EEC
 No
 8.2008
 p.
-30
 8)
 Decision
 No
@@ -1900,9 +1862,7 @@ of
 the
 Council
 of
-9
 July
-2008
 on
 a
 common
@@ -1919,8 +1879,6 @@ Decision
 /EEC
 8.2008
 p.
-82
-9
 Regulation
 EU
 of
@@ -1932,9 +1890,7 @@ of
 the
 Council
 of
-20
 June
-2019
 on
 market
 surveillance
@@ -1955,15 +1911,11 @@ EU
 No
 6.2019
 p.
-1
-10
 Council
 Directive
 /EEC
 of
-25
 July
-1985
 on
 the
 approximation
@@ -1985,8 +1937,6 @@ defective
 products
 8.1985
 p.
-29
-11
 Regulation
 EU
 of
@@ -1998,9 +1948,7 @@ of
 the
 Council
 of
-27
 April
-2016
 on
 the
 protection
@@ -2033,8 +1981,6 @@ Protection
 Regulation
 5.2016
 p.
-1
-12
 Regulation
 EU
 of
@@ -2046,9 +1992,7 @@ of
 the
 Council
 of
-23
 October
-2018
 on
 the
 protection
@@ -2090,8 +2034,6 @@ No
 /EC
 11.2018
 p.
-39
-13
 Directive
 EU
 of
@@ -2103,9 +2045,7 @@ of
 the
 Council
 of
-27
 April
-2016
 on
 the
 protection
@@ -2158,8 +2098,6 @@ Decision
 /JHA
 5.2016
 p.
-89
-14
 Directive
 /EC
 of
@@ -2171,9 +2109,7 @@ of
 the
 Council
 of
-12
 July
-2002
 concerning
 the
 processing
@@ -2198,7 +2134,6 @@ electronic
 communications
 7.2002
 p.
-37
 rights
 and
 guarantees
@@ -2275,7 +2210,6 @@ of
 other
 fundamental
 rights
-11
 This
 Regulation
 should
@@ -2307,7 +2241,6 @@ and
 of
 the
 Council
-12
 The
 notion
 of
@@ -2711,7 +2644,6 @@ integrated
 therein
 non
 embedded
-13
 The
 notion
 of
@@ -2780,7 +2712,6 @@ other
 than
 the
 deployer
-14
 The
 notion
 of
@@ -2805,20 +2736,17 @@ as
 defined
 in
 Article
-4
 point
 of
 Regulation
 EU
 Article
-3
 point
 of
 Regulation
 EU
 and
 Article
-3
 point
 of
 Directive
@@ -2845,7 +2773,6 @@ emotions
 of
 natural
 persons
-15
 The
 notion
 of
@@ -2988,7 +2915,6 @@ security
 access
 to
 premises
-15
 Regulation
 EU
 of
@@ -3000,9 +2926,7 @@ of
 the
 Council
 of
-19
 October
-2022
 on
 a
 Single
@@ -3019,11 +2943,9 @@ Services
 Act
 10.2022
 p.
-1
 OJ
 L
 12.7.2024
-16
 The
 notion
 of
@@ -3253,7 +3175,6 @@ sharing
 of
 content
 online
-17
 The
 notion
 of
@@ -3612,7 +3533,6 @@ the
 natural
 persons
 concerned
-18
 The
 notion
 of
@@ -3768,7 +3688,6 @@ raised
 voice
 or
 whispering
-19
 For
 the
 purposes
@@ -4138,7 +4057,6 @@ case
 by
 case
 basis
-20
 In
 order
 to
@@ -4396,7 +4314,6 @@ and
 use
 of
 AI
-21
 In
 order
 to
@@ -4460,7 +4377,6 @@ established
 within
 the
 Union
-22
 In
 light
 of
@@ -4906,7 +4822,6 @@ requirements
 of
 this
 Regulation
-23
 This
 Regulation
 should
@@ -4930,7 +4845,6 @@ of
 an
 AI
 system
-24
 If
 and
 insofar
@@ -5024,7 +4938,6 @@ policy
 covered
 by
 Chapter
-2
 of
 Title
 V
@@ -5376,7 +5289,6 @@ carrying
 out
 those
 activities
-25
 This
 Regulation
 should
@@ -5636,7 +5548,6 @@ with
 applicable
 Union
 law
-26
 In
 order
 to
@@ -5720,7 +5631,6 @@ for
 certain
 AI
 systems
-27
 While
 the
 risk
@@ -5744,7 +5654,6 @@ important
 to
 recall
 the
-2019
 Ethics
 guidelines
 for
@@ -6199,7 +6108,6 @@ best
 practices
 and
 standards
-28
 Aside
 from
 the
@@ -6280,7 +6188,6 @@ rights
 of
 the
 child
-29
 AI
 enabled
 manipulative
@@ -6634,7 +6541,6 @@ that
 there
 is
 an
-16
 Directive
 EU
 of
@@ -6646,9 +6552,7 @@ of
 the
 Council
 of
-17
 April
-2019
 on
 the
 accessibility
@@ -6659,7 +6563,6 @@ and
 services
 6.2019
 p.
-70
 OJ
 L
 12.7.2024
@@ -6892,7 +6795,6 @@ manipulative
 AI
 enabled
 practices
-30
 Biometric
 categorisation
 systems
@@ -6989,7 +6891,6 @@ area
 of
 law
 enforcement
-31
 AI
 systems
 providing
@@ -7174,7 +7075,6 @@ Union
 and
 national
 law
-32
 The
 use
 of
@@ -7340,7 +7240,6 @@ by
 law
 enforcement
 activities
-33
 The
 use
 of
@@ -7452,7 +7351,6 @@ sentence
 or
 a
 detention
-17
 Directive
 /EC
 of
@@ -7464,9 +7362,7 @@ of
 the
 Council
 of
-11
 May
-2005
 concerning
 unfair
 business
@@ -7514,7 +7410,6 @@ Practices
 Directive
 6.2005
 p.
-22
 order
 for
 a
@@ -7591,7 +7486,6 @@ is
 based
 on
 the
-32
 criminal
 offences
 listed
@@ -7705,7 +7599,6 @@ as
 defined
 in
 Article
-2
 point
 of
 Directive
@@ -7897,7 +7790,6 @@ to
 law
 enforcement
 authorities
-34
 In
 order
 to
@@ -8117,7 +8009,6 @@ the
 situations
 mentioned
 above
-35
 Each
 use
 of
@@ -8321,7 +8212,6 @@ at
 the
 latest
 within
-24
 hours
 If
 such
@@ -8362,15 +8252,12 @@ deleted
 Such
 data
 includes
-18
 Council
 Framework
 Decision
 /JHA
 of
-13
 June
-2002
 on
 the
 European
@@ -8385,8 +8272,6 @@ Member
 States
 7.2002
 p.
-1
-19
 Directive
 EU
 of
@@ -8398,9 +8283,7 @@ of
 the
 Council
 of
-14
 December
-2022
 on
 the
 resilience
@@ -8414,7 +8297,6 @@ Directive
 /EC
 12.2022
 p.
-164
 OJ
 L
 12.7.2024
@@ -8493,7 +8375,6 @@ remote
 biometric
 identification
 system
-36
 In
 order
 to
@@ -8571,7 +8452,6 @@ time
 biometric
 identification
 systems
-37
 Furthermore
 it
 is
@@ -8685,12 +8565,10 @@ to
 the
 Commission
 within
-30
 days
 of
 their
 adoption
-38
 The
 use
 of
@@ -8740,7 +8618,6 @@ are
 based
 on
 Article
-16
 TFEU
 should
 apply
@@ -8761,7 +8638,6 @@ data
 contained
 in
 Article
-10
 of
 Directive
 EU
@@ -8839,7 +8715,6 @@ grounds
 listed
 in
 Article
-10
 of
 Directive
 EU
@@ -8864,7 +8739,6 @@ personal
 data
 under
 Article
-8
 of
 Directive
 EU
@@ -8950,7 +8824,6 @@ effect
 to
 that
 authorisation
-39
 Any
 processing
 of
@@ -9009,7 +8882,6 @@ requirements
 resulting
 from
 Article
-10
 of
 Directive
 EU
@@ -9063,7 +8935,6 @@ national
 data
 protection
 authorities
-40
 In
 accordance
 with
@@ -9072,7 +8943,6 @@ Article
 of
 Protocol
 No
-21
 on
 the
 position
@@ -9185,7 +9055,6 @@ the
 basis
 of
 Article
-16
 TFEU
 which
 relate
@@ -9209,10 +9078,8 @@ the
 scope
 of
 Chapter
-4
 or
 Chapter
-5
 of
 Title
 V
@@ -9255,20 +9122,16 @@ the
 basis
 of
 Article
-16
 TFEU
-41
 In
 accordance
 with
 Articles
-2
 and
 2a
 of
 Protocol
 No
-22
 on
 the
 position
@@ -9363,7 +9226,6 @@ the
 basis
 of
 Article
-16
 TFEU
 or
 subject
@@ -9392,10 +9254,8 @@ the
 scope
 of
 Chapter
-4
 or
 Chapter
-5
 of
 Title
 V
@@ -9405,7 +9265,6 @@ Three
 of
 the
 TFEU
-42
 In
 line
 with
@@ -9616,7 +9475,6 @@ of
 known
 trafficking
 routes
-43
 The
 placing
 on
@@ -9683,7 +9541,6 @@ the
 right
 to
 privacy
-44
 There
 are
 serious
@@ -9873,7 +9730,6 @@ intended
 for
 therapeutical
 use
-45
 Practices
 that
 are
@@ -9901,7 +9757,6 @@ affected
 by
 this
 Regulation
-46
 High
 risk
 AI
@@ -9989,7 +9844,6 @@ of
 EU
 product
 rules
-2022
 the
 general
 rule
@@ -10045,11 +9899,8 @@ into
 service
 can
 take
-20
 6.2022
 p.
-1
-21
 Regulation
 EU
 of
@@ -10061,9 +9912,7 @@ of
 the
 Council
 of
-5
 April
-2017
 on
 medical
 devices
@@ -10086,8 +9935,6 @@ and
 /EEC
 5.2017
 p.
-1
-22
 Regulation
 EU
 of
@@ -10099,9 +9946,7 @@ of
 the
 Council
 of
-5
 April
-2017
 on
 in
 vitro
@@ -10118,8 +9963,6 @@ Decision
 /EU
 5.2017
 p.
-176
-23
 Directive
 /EC
 of
@@ -10131,9 +9974,7 @@ of
 the
 Council
 of
-17
 May
-2006
 on
 machinery
 and
@@ -10142,7 +9983,6 @@ Directive
 /EC
 6.2006
 p.
-24
 OJ
 L
 12.7.2024
@@ -10278,7 +10118,6 @@ restriction
 to
 international
 trade
-47
 AI
 systems
 could
@@ -10427,7 +10266,6 @@ be
 reliable
 and
 accurate
-48
 The
 extent
 of
@@ -10559,7 +10397,6 @@ as
 enshrined
 in
 Article
-24
 of
 the
 Charter
@@ -10583,7 +10420,6 @@ UNCRC
 General
 Comment
 No
-25
 as
 regards
 the
@@ -10658,7 +10494,6 @@ and
 safety
 of
 persons
-49
 As
 regards
 high
@@ -10752,7 +10587,6 @@ Regulation
 EU
 of
 the
-24
 Regulation
 EC
 No
@@ -10765,9 +10599,7 @@ of
 the
 Council
 of
-11
 March
-2008
 on
 common
 rules
@@ -10785,8 +10617,6 @@ EC
 No
 4.2008
 p.
-72
-25
 Regulation
 EU
 No
@@ -10799,9 +10629,7 @@ of
 the
 Council
 of
-5
 February
-2013
 on
 the
 approval
@@ -10815,8 +10643,6 @@ forestry
 vehicles
 3.2013
 p.
-1
-26
 Regulation
 EU
 No
@@ -10829,9 +10655,7 @@ of
 the
 Council
 of
-15
 January
-2013
 on
 the
 approval
@@ -10848,8 +10672,6 @@ and
 quadricycles
 3.2013
 p.
-52
-27
 Directive
 /EU
 of
@@ -10861,9 +10683,7 @@ of
 the
 Council
 of
-23
 July
-2014
 on
 marine
 equipment
@@ -10874,8 +10694,6 @@ Directive
 /EC
 8.2014
 p.
-146
-28
 Directive
 EU
 of
@@ -10887,9 +10705,7 @@ of
 the
 Council
 of
-11
 May
-2016
 on
 the
 interoperability
@@ -10903,8 +10719,6 @@ European
 Union
 5.2016
 p.
-44
-29
 Regulation
 EU
 of
@@ -10916,9 +10730,7 @@ of
 the
 Council
 of
-30
 May
-2018
 on
 the
 approval
@@ -10956,7 +10768,6 @@ Directive
 /EC
 6.2018
 p.
-1
 European
 Parliament
 and
@@ -11043,7 +10854,6 @@ basis
 of
 those
 acts
-50
 As
 regards
 AI
@@ -11152,7 +10962,6 @@ devices
 automotive
 and
 aviation
-51
 The
 classification
 of
@@ -11235,7 +11044,6 @@ and
 high
 risk
 products
-52
 As
 regards
 stand
@@ -11386,7 +11194,6 @@ use
 of
 AI
 systems
-53
 It
 is
 also
@@ -11623,7 +11430,6 @@ second
 condition
 should
 be
-30
 Regulation
 EU
 of
@@ -11635,9 +11441,7 @@ of
 the
 Council
 of
-4
 July
-2018
 on
 common
 rules
@@ -11702,8 +11506,6 @@ EEC
 No
 8.2018
 p.
-1
-31
 Regulation
 EU
 of
@@ -11715,9 +11517,7 @@ of
 the
 Council
 of
-27
 November
-2019
 on
 type
 approval
@@ -11820,7 +11620,6 @@ and
 EU
 12.2019
 p.
-1
 OJ
 L
 12.7.2024
@@ -12161,21 +11960,18 @@ the
 meaning
 of
 Article
-4
 point
 of
 Regulation
 EU
 or
 Article
-3
 point
 of
 Directive
 EU
 or
 Article
-3
 point
 of
 Regulation
@@ -12326,7 +12122,6 @@ cases
 that
 are
 not
-54
 As
 biometric
 data
@@ -12578,7 +12373,6 @@ high
 risk
 AI
 systems
-55
 As
 regards
 the
@@ -12780,7 +12574,6 @@ in
 cloud
 computing
 centres
-56
 The
 deployment
 of
@@ -13001,7 +12794,6 @@ origins
 or
 sexual
 orientation
-57
 AI
 systems
 used
@@ -13118,7 +12910,6 @@ the
 Commission
 Work
 Programme
-2021
 Throughout
 the
 recruitment
@@ -13189,7 +12980,6 @@ data
 protection
 and
 privacy
-58
 Another
 area
 in
@@ -13681,7 +13471,6 @@ persons
 and
 their
 property
-59
 Given
 their
 role
@@ -14179,7 +13968,6 @@ natural
 persons
 under
 investigation
-60
 AI
 systems
 used
@@ -14522,7 +14310,6 @@ done
 at
 Geneva
 on
-28
 July
 principle
 of
@@ -14548,7 +14335,6 @@ right
 to
 international
 protection
-61
 Certain
 AI
 systems
@@ -14768,7 +14554,6 @@ between
 personnel
 administrative
 tasks
-62
 Without
 prejudice
 to
@@ -14806,7 +14591,6 @@ vote
 enshrined
 in
 Article
-39
 of
 the
 Charter
@@ -14895,7 +14679,6 @@ logistical
 point
 of
 view
-63
 The
 fact
 that
@@ -15033,7 +14816,6 @@ for
 in
 this
 Regulation
-64
 To
 mitigate
 the
@@ -15157,7 +14939,6 @@ of
 EU
 product
 rules
-2022
 the
 general
 rule
@@ -15260,7 +15041,6 @@ essential
 health
 and
 safety
-32
 Regulation
 EC
 No
@@ -15273,9 +15053,7 @@ of
 the
 Council
 of
-13
 July
-2009
 establishing
 a
 Community
@@ -15286,8 +15064,6 @@ Visa
 Code
 9.2009
 p.
-1
-33
 Directive
 /EU
 of
@@ -15299,9 +15075,7 @@ of
 the
 Council
 of
-26
 June
-2013
 on
 common
 procedures
@@ -15313,8 +15087,6 @@ international
 protection
 6.2013
 p.
-60
-34
 Regulation
 EU
 of
@@ -15326,9 +15098,7 @@ of
 the
 Council
 of
-13
 March
-2024
 on
 the
 transparency
@@ -15540,7 +15310,6 @@ all
 the
 applicable
 requirements
-65
 The
 risk
 management
@@ -15918,7 +15687,6 @@ as
 necessary
 and
 appropriate
-66
 Requirements
 should
 apply
@@ -15992,7 +15760,6 @@ unjustified
 restrictions
 to
 trade
-67
 High
 quality
 data
@@ -16426,7 +16193,6 @@ this
 Regulation
 are
 ensured
-68
 For
 the
 development
@@ -16605,7 +16371,6 @@ testing
 of
 AI
 systems
-69
 The
 right
 to
@@ -16723,7 +16488,6 @@ for
 in
 this
 Regulation
-70
 In
 order
 to
@@ -16850,7 +16614,6 @@ g
 of
 Regulation
 EU
-71
 Having
 comprehensible
 information
@@ -17015,7 +16778,6 @@ system
 OJ
 L
 12.7.2024
-72
 To
 address
 concerns
@@ -17368,7 +17130,6 @@ the
 Member
 State
 concerned
-73
 High
 risk
 AI
@@ -17700,7 +17461,6 @@ requirement
 to
 be
 disproportionate
-74
 High
 risk
 AI
@@ -17891,7 +17651,6 @@ indicators
 relating
 to
 AI
-35
 Directive
 /EU
 of
@@ -17903,9 +17662,7 @@ of
 the
 Council
 of
-26
 February
-2014
 on
 the
 harmonisation
@@ -17931,8 +17688,6 @@ weighing
 instruments
 3.2014
 p.
-107
-36
 Directive
 /EU
 of
@@ -17944,9 +17699,7 @@ of
 the
 Council
 of
-26
 February
-2014
 on
 the
 harmonisation
@@ -17970,8 +17723,6 @@ measuring
 instruments
 3.2014
 p.
-149
-75
 Technical
 robustness
 is
@@ -18118,7 +17869,6 @@ by
 the
 AI
 system
-76
 Cybersecurity
 plays
 a
@@ -18232,7 +17982,6 @@ the
 underlying
 ICT
 infrastructure
-77
 Without
 prejudice
 to
@@ -18468,7 +18217,6 @@ required
 by
 this
 Regulation
-78
 The
 conformity
 assessment
@@ -18750,7 +18498,6 @@ cybersecurity
 of
 AI
 systems
-37
 Regulation
 EU
 of
@@ -18762,9 +18509,7 @@ of
 the
 Council
 of
-17
 April
-2019
 on
 ENISA
 the
@@ -18790,11 +18535,9 @@ Cybersecurity
 Act
 6.2019
 p.
-15
 OJ
 L
 12.7.2024
-79
 It
 is
 appropriate
@@ -18845,7 +18588,6 @@ or
 developed
 the
 system
-80
 As
 signatories
 to
@@ -19019,7 +18761,6 @@ high
 risk
 AI
 system
-81
 The
 provider
 should
@@ -19190,7 +18931,6 @@ the
 public
 authority
 concerned
-82
 To
 enable
 enforcement
@@ -19325,7 +19065,6 @@ established
 in
 the
 Union
-83
 In
 light
 of
@@ -19439,7 +19178,6 @@ at
 the
 same
 time
-84
 To
 ensure
 legal
@@ -19653,7 +19391,6 @@ together
 with
 which
 this
-38
 Directive
 EU
 of
@@ -19665,9 +19402,7 @@ of
 the
 Council
 of
-26
 October
-2016
 on
 the
 accessibility
@@ -19683,7 +19418,6 @@ sector
 bodies
 12.2016
 p.
-1
 Regulation
 should
 apply
@@ -19736,7 +19470,6 @@ meaning
 of
 that
 Regulation
-85
 General
 purpose
 AI
@@ -19851,7 +19584,6 @@ established
 under
 this
 Regulation
-86
 Where
 under
 the
@@ -19963,7 +19695,6 @@ high
 risk
 AI
 systems
-87
 In
 addition
 where
@@ -20049,7 +19780,6 @@ requirements
 of
 this
 Regulation
-88
 Along
 the
 AI
@@ -20188,7 +19918,6 @@ rights
 or
 trade
 secrets
-89
 Third
 parties
 making
@@ -20309,7 +20038,6 @@ systems
 in
 the
 Union
-90
 The
 Commission
 could
@@ -20378,7 +20106,6 @@ sectors
 or
 business
 cases
-91
 Given
 the
 nature
@@ -20548,7 +20275,6 @@ Union
 or
 national
 law
-92
 This
 Regulation
 is
@@ -20678,7 +20404,6 @@ existing
 rights
 of
 workers
-93
 Whilst
 risks
 related
@@ -20899,11 +20624,9 @@ in
 accordance
 with
 Article
-13
 of
 Directive
 EU
-94
 Any
 processing
 of
@@ -20930,7 +20653,6 @@ to
 comply
 with
 Article
-10
 of
 Directive
 EU
@@ -20978,7 +20700,6 @@ laid
 down
 in
 Article
-4
 of
 Directive
 EU
@@ -20993,7 +20714,6 @@ accuracy
 and
 storage
 limitation
-95
 Without
 prejudice
 to
@@ -21130,7 +20850,6 @@ time
 remote
 biometric
 identification
-96
 In
 order
 to
@@ -21301,7 +21020,6 @@ and
 should
 be
 updated
-39
 Directive
 /EC
 of
@@ -21313,9 +21031,7 @@ of
 the
 Council
 of
-11
 March
-2002
 establishing
 a
 general
@@ -21331,7 +21047,6 @@ European
 Community
 3.2002
 p.
-29
 when
 the
 deployer
@@ -21660,7 +21375,6 @@ administrative
 burden
 for
 deployers
-97
 The
 notion
 of
@@ -22067,7 +21781,6 @@ placed
 on
 the
 market
-98
 Whereas
 the
 generality
@@ -22123,7 +21836,6 @@ range
 of
 distinctive
 tasks
-99
 Large
 generative
 AI
@@ -22168,7 +21880,6 @@ range
 of
 distinctive
 tasks
-100
 When
 a
 general
@@ -22233,7 +21944,6 @@ systems
 OJ
 L
 12.7.2024
-101
 Providers
 of
 general
@@ -22416,7 +22126,6 @@ of
 evolving
 technological
 developments
-102
 Software
 and
 data
@@ -22565,7 +22274,6 @@ of
 distribution
 are
 respected
-103
 Free
 and
 open
@@ -22706,7 +22414,6 @@ itself
 constitute
 a
 monetisation
-104
 The
 providers
 of
@@ -22928,7 +22635,6 @@ and
 of
 the
 Council
-105
 General
 purpose
 AI
@@ -23063,7 +22769,6 @@ of
 text
 and
 data
-40
 Directive
 EU
 of
@@ -23075,9 +22780,7 @@ of
 the
 Council
 of
-17
 April
-2019
 on
 copyright
 and
@@ -23096,7 +22799,6 @@ and
 /EC
 5.2019
 p.
-92
 mining
 under
 certain
@@ -23174,7 +22876,6 @@ mining
 over
 such
 works
-106
 Providers
 that
 place
@@ -23322,7 +23023,6 @@ provided
 in
 the
 Union
-107
 In
 order
 to
@@ -23496,7 +23196,6 @@ summary
 in
 narrative
 form
-108
 With
 regard
 to
@@ -23582,7 +23281,6 @@ for
 under
 Union
 law
-109
 Compliance
 with
 the
@@ -23746,7 +23444,6 @@ provided
 in
 this
 Regulation
-110
 General
 purpose
 AI
@@ -24049,7 +23746,6 @@ or
 an
 entire
 community
-111
 It
 is
 appropriate
@@ -24564,7 +24260,6 @@ to
 present
 systemic
 risks
-112
 It
 is
 also
@@ -24832,7 +24527,6 @@ more
 difficult
 to
 implement
-113
 If
 the
 Commission
@@ -24935,7 +24629,6 @@ of
 the
 AI
 Office
-114
 The
 providers
 of
@@ -25097,7 +24790,6 @@ the
 AI
 value
 chain
-115
 Providers
 of
 general
@@ -25279,7 +24971,6 @@ and
 the
 risks
 involved
-116
 The
 AI
 Office
@@ -25440,7 +25131,6 @@ assessment
 and
 mitigation
 measures
-117
 The
 codes
 of
@@ -25617,7 +25307,6 @@ to
 rely
 on
 those
-118
 This
 Regulation
 regulates
@@ -25808,7 +25497,6 @@ observance
 of
 fundamental
 rights
-119
 Considering
 the
 quick
@@ -25931,7 +25619,6 @@ different
 sources
 of
 information
-120
 Furthermore
 obligations
 placed
@@ -26037,7 +25724,6 @@ processes
 including
 through
 disinformation
-121
 Standardisation
 should
 play
@@ -26085,7 +25771,6 @@ as
 defined
 in
 Article
-2
 point(c
 of
 Regulation
@@ -26153,9 +25838,7 @@ in
 accordance
 with
 Articles
-5
 and
-6
 of
 Regulation
 EU
@@ -26333,7 +26016,6 @@ that
 standard
 this
 should
-41
 Regulation
 EU
 No
@@ -26346,9 +26028,7 @@ of
 the
 Council
 of
-25
 October
-2012
 on
 European
 standardisation
@@ -26397,7 +26077,6 @@ the
 Council
 11.2012
 p.
-12
 be
 considered
 by
@@ -26427,7 +26106,6 @@ and
 international
 standardisation
 bodies
-122
 It
 is
 appropriate
@@ -26607,7 +26285,6 @@ of
 that
 cybersecurity
 scheme
-123
 In
 order
 to
@@ -26642,7 +26319,6 @@ or
 putting
 into
 service
-124
 It
 is
 appropriate
@@ -26737,7 +26413,6 @@ relevant
 Union
 harmonisation
 legislation
-125
 Given
 the
 complexity
@@ -26872,7 +26547,6 @@ be
 used
 for
 biometrics
-126
 In
 order
 to
@@ -26964,7 +26638,6 @@ to
 Decision
 No
 /EC
-127
 In
 line
 with
@@ -27066,7 +26739,6 @@ agreements
 with
 third
 countries
-128
 In
 line
 with
@@ -27205,7 +26877,6 @@ assessment
 OJ
 L
 12.7.2024
-129
 High
 risk
 AI
@@ -27310,7 +26981,6 @@ bear
 the
 CE
 marking
-130
 Under
 certain
 conditions
@@ -27447,7 +27117,6 @@ use
 without
 undue
 delay
-131
 In
 order
 to
@@ -27892,7 +27561,6 @@ under
 the
 Directive
 EU
-132
 Certain
 AI
 systems
@@ -28126,7 +27794,6 @@ for
 persons
 with
 disabilities
-133
 A
 variety
 of
@@ -28430,7 +28097,6 @@ or
 the
 semantics
 thereof
-134
 Further
 to
 the
@@ -28707,7 +28373,6 @@ publication
 of
 the
 content
-135
 Without
 prejudice
 to
@@ -28798,7 +28463,6 @@ distinguish
 AI
 generated
 content
-136
 The
 obligations
 placed
@@ -28984,7 +28648,6 @@ content
 OJ
 L
 12.7.2024
-137
 Compliance
 with
 the
@@ -29047,7 +28710,6 @@ Union
 or
 national
 law
-138
 AI
 is
 a
@@ -29227,7 +28889,6 @@ financial
 and
 human
 resources
-139
 The
 objectives
 of
@@ -29701,7 +29362,6 @@ the
 AI
 regulatory
 sandbox
-140
 This
 Regulation
 should
@@ -29761,10 +29421,7 @@ Regulation
 EU
 and
 Articles
-5
-6
 and
-10
 of
 Regulation
 EU
@@ -29776,7 +29433,6 @@ Article
 4(2
 and
 Article
-10
 of
 Directive
 EU
@@ -29886,7 +29542,6 @@ experimentation
 in
 that
 sandbox
-141
 In
 order
 to
@@ -30306,7 +29961,6 @@ and
 of
 the
 Council
-142
 To
 ensure
 that
@@ -30420,7 +30074,6 @@ as
 well
 as
 academics
-143
 In
 order
 to
@@ -30631,7 +30284,6 @@ providers
 that
 are
 SMEs
-42
 Regulation
 EU
 of
@@ -30643,9 +30295,7 @@ of
 the
 Council
 of
-30
 May
-2022
 on
 European
 data
@@ -30659,8 +30309,6 @@ Governance
 Act
 6.2022
 p.
-1
-43
 Regulation
 EU
 of
@@ -30672,9 +30320,7 @@ of
 the
 Council
 of
-13
 December
-2023
 on
 harmonised
 rules
@@ -30954,7 +30600,6 @@ compliance
 with
 this
 Regulation
-144
 In
 order
 to
@@ -31007,7 +30652,6 @@ objectives
 of
 this
 Regulation
-145
 In
 order
 to
@@ -31125,7 +30769,6 @@ providers
 and
 notified
 bodies
-146
 Moreover
 in
 light
@@ -31226,7 +30869,6 @@ simplified
 manner
 by
 microenterprises
-147
 It
 is
 appropriate
@@ -31306,7 +30948,6 @@ Regulations
 EU
 and
 EU
-148
 This
 Regulation
 should
@@ -31485,13 +31126,10 @@ of
 Union
 expertise
 and
-44
 Commission
 Recommendation
 of
-6
 May
-2003
 concerning
 the
 definition
@@ -31502,7 +31140,6 @@ and
 medium
 sized
 enterprises
-45
 Commission
 Decision
 of
@@ -31514,7 +31151,6 @@ Artificial
 Intelligence
 Office
 C(2024
-390
 capabilities
 should
 also
@@ -31571,7 +31207,6 @@ the
 Digital
 Europe
 Programme
-149
 In
 order
 to
@@ -31784,7 +31419,6 @@ the
 meaning
 of
 Article
-30
 of
 Regulation
 EU
@@ -31792,7 +31426,6 @@ In
 accordance
 with
 Article
-33
 of
 that
 Regulation
@@ -31892,7 +31525,6 @@ digital
 products
 and
 services
-150
 With
 a
 view
@@ -32002,7 +31634,6 @@ Telecommunications
 Standards
 Institute
 ETSI
-151
 To
 support
 the
@@ -32122,7 +31753,6 @@ for
 their
 enforcement
 activities
-152
 In
 order
 to
@@ -32156,7 +31786,6 @@ to
 the
 Member
 States
-153
 Member
 States
 hold
@@ -32297,7 +31926,6 @@ contact
 OJ
 L
 12.7.2024
-154
 The
 national
 competent
@@ -32358,7 +31986,6 @@ rules
 under
 this
 Regulation
-155
 In
 order
 to
@@ -32563,7 +32190,6 @@ property
 or
 the
 environment
-156
 In
 order
 to
@@ -32760,7 +32386,6 @@ required
 by
 Union
 law
-157
 This
 Regulation
 is
@@ -32912,7 +32537,6 @@ and
 present
 a
 risk
-158
 Union
 financial
 services
@@ -33009,7 +32633,6 @@ and
 Directives
 /EC
 /EC
-46
 Regulation
 EU
 No
@@ -33022,9 +32645,7 @@ of
 the
 Council
 of
-26
 June
-2013
 on
 prudential
 requirements
@@ -33041,8 +32662,6 @@ EU
 No
 6.2013
 p.
-1
-47
 Directive
 /EC
 of
@@ -33054,9 +32673,7 @@ of
 the
 Council
 of
-23
 April
-2008
 on
 credit
 agreements
@@ -33069,8 +32686,6 @@ Directive
 /EEC
 5.2008
 p.
-66
-48
 Directive
 /EC
 of
@@ -33082,9 +32697,7 @@ of
 the
 Council
 of
-25
 November
-2009
 on
 the
 taking
@@ -33102,7 +32715,6 @@ Solvency
 II
 12.2009
 p.
-1
 /EU
 /EU
 and
@@ -33456,7 +33068,6 @@ in
 the
 financial
 sector
-159
 Each
 market
 surveillance
@@ -33609,7 +33220,6 @@ scope
 of
 this
 Regulation
-160
 The
 market
 surveillance
@@ -33699,7 +33309,6 @@ in
 accordance
 with
 Article
-9
 of
 Regulation
 EU
@@ -33713,7 +33322,6 @@ support
 for
 joint
 investigations
-161
 It
 is
 necessary
@@ -33770,7 +33378,6 @@ provider
 the
 supervision
 should
-49
 Directive
 /EU
 of
@@ -33782,9 +33389,7 @@ of
 the
 Council
 of
-26
 June
-2013
 on
 access
 to
@@ -33814,8 +33419,6 @@ and
 /EC
 6.2013
 p.
-338
-50
 Directive
 /EU
 of
@@ -33827,9 +33430,7 @@ of
 the
 Council
 of
-4
 February
-2014
 on
 credit
 agreements
@@ -33852,8 +33453,6 @@ EU
 No
 2.2014
 p.
-34
-51
 Directive
 EU
 of
@@ -33865,21 +33464,16 @@ of
 the
 Council
 of
-20
 January
-2016
 on
 insurance
 distribution
-52
 Council
 Regulation
 EU
 No
 of
-15
 October
-2013
 conferring
 specific
 tasks
@@ -33900,7 +33494,6 @@ credit
 institutions
 10.2013
 p.
-63
 OJ
 L
 12.7.2024
@@ -34074,7 +33667,6 @@ should
 apply
 mutatis
 mutandis
-162
 To
 make
 best
@@ -34219,7 +33811,6 @@ AI
 models
 and
 systems
-163
 With
 a
 view
@@ -34365,7 +33956,6 @@ information
 from
 a
 provider
-164
 The
 AI
 Office
@@ -34541,7 +34131,6 @@ provided
 for
 in
 Article
-18
 of
 Regulation
 EU
@@ -34562,7 +34151,6 @@ for
 by
 this
 Regulation
-165
 The
 development
 of
@@ -34882,7 +34470,6 @@ different
 types
 of
 data
-166
 It
 is
 important
@@ -34952,7 +34539,6 @@ as
 a
 safety
 net
-167
 In
 order
 to
@@ -35049,7 +34635,6 @@ integrity
 of
 classified
 information
-168
 Compliance
 with
 this
@@ -35221,7 +34806,6 @@ scope
 of
 this
 Regulation
-169
 Compliance
 with
 the
@@ -35334,9 +34918,7 @@ penalties
 pursuant
 to
 Article
-261
 TFEU
-170
 Union
 and
 national
@@ -35400,7 +34982,6 @@ relevant
 market
 surveillance
 authority
-171
 Affected
 persons
 should
@@ -35459,7 +35040,6 @@ to
 have
 an
 adverse
-53
 Regulation
 EU
 of
@@ -35471,9 +35051,7 @@ of
 the
 Council
 of
-10
 May
-2023
 on
 general
 product
@@ -35518,7 +35096,6 @@ Directive
 /EEC
 5.2023
 p.
-1
 OJ
 L
 12.7.2024
@@ -35596,7 +35173,6 @@ for
 under
 Union
 law
-172
 Persons
 acting
 as
@@ -35643,7 +35219,6 @@ persons
 reporting
 such
 infringements
-173
 In
 order
 to
@@ -35666,7 +35241,6 @@ in
 accordance
 with
 Article
-290
 TFEU
 should
 be
@@ -35847,9 +35421,7 @@ the
 Interinstitutional
 Agreement
 of
-13
 April
-2016
 on
 Better
 Law
@@ -35902,7 +35474,6 @@ preparation
 of
 delegated
 acts
-174
 Given
 the
 rapid
@@ -35927,9 +35498,7 @@ review
 this
 Regulation
 by
-2
 August
-2029
 and
 every
 four
@@ -35987,9 +35556,7 @@ a
 year
 Moreover
 by
-2
 August
-2028
 and
 every
 four
@@ -36073,9 +35640,7 @@ or
 actions
 Finally
 by
-2
 August
-2028
 and
 every
 three
@@ -36128,7 +35693,6 @@ for
 such
 AI
 systems
-175
 In
 order
 to
@@ -36168,7 +35732,6 @@ and
 of
 the
 Council
-176
 Since
 the
 objective
@@ -36264,7 +35827,6 @@ the
 Union
 may
 adopt
-54
 Directive
 EU
 of
@@ -36276,9 +35838,7 @@ of
 the
 Council
 of
-23
 October
-2019
 on
 the
 protection
@@ -36292,12 +35852,8 @@ Union
 law
 11.2019
 p.
-17
-55
 5.2016
 p.
-1
-56
 Regulation
 EU
 No
@@ -36310,9 +35866,7 @@ of
 the
 Council
 of
-16
 February
-2011
 laying
 down
 the
@@ -36337,7 +35891,6 @@ implementing
 powers
 2.2011
 p.
-13
 measures
 in
 accordance
@@ -36351,7 +35904,6 @@ set
 out
 in
 Article
-5
 TEU
 In
 accordance
@@ -36381,7 +35933,6 @@ to
 achieve
 that
 objective
-177
 In
 order
 to
@@ -36570,13 +36121,9 @@ Regulation
 by
 end
 of
-2030
 and
 by
-2
 August
-2030
-178
 Providers
 of
 high
@@ -36605,15 +36152,12 @@ during
 the
 transitional
 period
-179
 This
 Regulation
 should
 apply
 from
-2
 August
-2026
 However
 taking
 into
@@ -36645,9 +36189,7 @@ should
 already
 apply
 from
-2
 February
-2025
 While
 the
 full
@@ -36720,9 +36262,7 @@ models
 should
 apply
 from
-2
 August
-2025
 Codes
 of
 practice
@@ -36787,10 +36327,7 @@ penalties
 should
 apply
 from
-2
 August
-2025
-180
 The
 European
 Data
@@ -36819,9 +36356,7 @@ their
 joint
 opinion
 on
-18
 June
-2021
 HAVE
 ADOPTED
 THIS
@@ -36831,7 +36366,6 @@ I
 GENERAL
 PROVISIONS
 Article
-1
 Subject
 matter
 `
@@ -36951,7 +36485,6 @@ including
 start
 ups
 Article
-2
 Scope
 in
 the
@@ -37090,15 +36623,11 @@ only
 Article
 6(1
 Articles
-102
 to
-109
 and
 Article
-112
 apply
 Article
-57
 applies
 only
 in
@@ -37254,7 +36783,6 @@ Regulation
 pursuant
 to
 paragraph
-1
 where
 those
 authorities
@@ -37466,11 +36994,8 @@ that
 falls
 under
 Article
-5
 or
-50
 Article
-3
 Definitions
 For
 the
@@ -38156,7 +37681,6 @@ in
 Chapter
 III
 Section
-2
 relating
 to
 a
@@ -38260,7 +37784,6 @@ in
 Chapter
 III
 Section
-2
 is
 affected
 or
@@ -38306,7 +37829,6 @@ in
 Chapter
 III
 Section
-2
 and
 other
 applicable
@@ -38416,7 +37938,6 @@ as
 defined
 in
 Article
-2
 point
 of
 Regulation
@@ -38678,7 +38199,6 @@ of
 Regulation
 EU
 Article
-10
 of
 Directive
 EU
@@ -39084,7 +38604,6 @@ in
 Commission
 Decision
 of
-24
 January
 put
 into
@@ -39200,7 +38719,6 @@ as
 defined
 in
 Article
-4
 point
 of
 Regulation
@@ -39218,7 +38736,6 @@ as
 defined
 in
 Article
-4
 point
 of
 Regulation
@@ -39230,7 +38747,6 @@ as
 defined
 in
 Article
-4
 point
 of
 Regulation
@@ -39486,9 +39002,7 @@ laid
 down
 in
 Article
-57
 or
-60
 are
 fulfilled
 subject
@@ -39728,7 +39242,6 @@ as
 defined
 in
 Article
-2
 point
 of
 Directive
@@ -40029,7 +39542,6 @@ OJ
 L
 12.7.2024
 Article
-4
 AI
 literacy
 Providers
@@ -40115,7 +39627,6 @@ PROHIBITED
 AI
 PRACTICES
 Article
-5
 Prohibited
 AI
 practices
@@ -40844,7 +40355,6 @@ without
 prejudice
 to
 Article
-9
 of
 Regulation
 EU
@@ -40870,7 +40380,6 @@ referred
 to
 in
 paragraph
-1
 first
 subparagraph
 point
@@ -40995,7 +40504,6 @@ referred
 to
 in
 paragraph
-1
 first
 subparagraph
 point
@@ -41072,7 +40580,6 @@ provided
 for
 in
 Article
-27
 and
 has
 registered
@@ -41085,7 +40592,6 @@ database
 according
 to
 Article
-49
 However
 in
 duly
@@ -41182,7 +40688,6 @@ referred
 to
 in
 paragraph
-5
 However
 in
 a
@@ -41215,7 +40720,6 @@ at
 the
 latest
 within
-24
 hours
 If
 such
@@ -41313,7 +40817,6 @@ objectives
 specified
 in
 paragraph
-1
 first
 subparagraph
 point
@@ -41363,7 +40866,6 @@ referred
 to
 in
 paragraph
-2
 No
 decision
 that
@@ -41422,7 +40924,6 @@ referred
 to
 in
 paragraph
-5
 The
 notification
 shall
@@ -41435,7 +40936,6 @@ information
 specified
 under
 paragraph
-6
 and
 shall
 not
@@ -41466,16 +40966,13 @@ conditions
 listed
 in
 paragraph
-1
 first
 subparagraph
 point
 h
 and
 paragraphs
-2
 and
-3
 Member
 States
 concerned
@@ -41511,7 +41008,6 @@ referred
 to
 in
 paragraph
-3
 Those
 rules
 shall
@@ -41527,7 +41023,6 @@ objectives
 listed
 in
 paragraph
-1
 first
 subparagraph
 point
@@ -41572,7 +41067,6 @@ Commission
 at
 the
 latest
-30
 days
 following
 the
@@ -41620,7 +41114,6 @@ purposes
 pursuant
 to
 paragraph
-4
 shall
 submit
 to
@@ -41681,7 +41174,6 @@ in
 accordance
 with
 paragraph
-3
 and
 their
 result
@@ -41710,7 +41202,6 @@ referred
 to
 in
 paragraph
-6
 Those
 annual
 reports
@@ -41733,7 +41224,6 @@ RISK
 AI
 SYSTEMS
 SECTION
-1
 Classification
 of
 AI
@@ -41742,7 +41232,6 @@ as
 high
 risk
 Article
-6
 Classification
 rules
 for
@@ -42194,9 +41683,7 @@ by
 this
 Regulation
 paragraphs
-6
 and
-7
 of
 this
 Article
@@ -42241,7 +41728,6 @@ and
 technological
 developments
 Article
-7
 Amendments
 to
 Annex
@@ -42767,7 +42253,6 @@ criteria
 listed
 in
 paragraph
-2
 b
 the
 deletion
@@ -42789,7 +42274,6 @@ under
 Union
 law
 SECTION
-2
 Requirements
 for
 high
@@ -42797,7 +42281,6 @@ risk
 AI
 systems
 Article
-8
 Compliance
 with
 the
@@ -42827,7 +42310,6 @@ referred
 to
 in
 Article
-9
 shall
 be
 taken
@@ -42884,7 +42366,6 @@ referred
 to
 in
 paragraph
-1
 with
 the
 requirements
@@ -42953,7 +42434,6 @@ of
 Annex
 I.
 Article
-9
 Risk
 management
 system
@@ -43076,7 +42556,6 @@ referred
 to
 in
 Article
-72
 d
 the
 adoption
@@ -43197,7 +42676,6 @@ evaluated
 pursuant
 to
 paragraph
-2
 in
 as
 far
@@ -43240,7 +42718,6 @@ required
 pursuant
 to
 Article
-13
 and
 where
 appropriate
@@ -43398,7 +42875,6 @@ under
 the
 age
 of
-18
 and
 as
 appropriate
@@ -43417,9 +42893,7 @@ aspects
 provided
 in
 paragraphs
-1
 to
-9
 may
 be
 part
@@ -43437,7 +42911,6 @@ to
 that
 law
 Article
-10
 Data
 and
 data
@@ -43461,9 +42934,7 @@ referred
 to
 in
 paragraphs
-2
 to
-5
 whenever
 such
 data
@@ -44008,7 +43479,6 @@ processing
 other
 data
 to
-5
 apply
 only
 to
@@ -44017,7 +43487,6 @@ testing
 data
 sets
 Article
-11
 Technical
 documentation
 put
@@ -44216,7 +43685,6 @@ set
 out
 in
 paragraph
-1
 as
 well
 as
@@ -44264,7 +43732,6 @@ OJ
 L
 12.7.2024
 Article
-12
 Record
 keeping
 system
@@ -44318,7 +43785,6 @@ referred
 to
 in
 Article
-72
 and
 c
 monitoring
@@ -44335,7 +43801,6 @@ in
 Article
 26(5
 Article
-13
 Transparency
 and
 provision
@@ -44386,7 +43851,6 @@ set
 out
 in
 Section
-3
 include
 concise
 complete
@@ -44624,7 +44088,6 @@ referred
 to
 in
 Article
-14
 including
 the
 technical
@@ -44718,9 +44181,7 @@ in
 accordance
 with
 Article
-12
 Article
-14
 Human
 oversight
 interface
@@ -45146,7 +44607,6 @@ to
 be
 disproportionate
 Article
-15
 Accuracy
 robustness
 and
@@ -45166,7 +44626,6 @@ throughout
 their
 lifecycle
 paragraph
-1
 and
 any
 other
@@ -45410,7 +44869,6 @@ or
 model
 flaws
 SECTION
-3
 Obligations
 of
 providers
@@ -45425,7 +44883,6 @@ and
 other
 parties
 Article
-16
 Obligations
 of
 providers
@@ -45458,7 +44915,6 @@ set
 out
 in
 Section
-2
 b
 indicate
 on
@@ -45511,7 +44967,6 @@ which
 complies
 with
 Article
-17
 d
 keep
 the
@@ -45520,7 +44975,6 @@ referred
 to
 in
 Article
-18
 e
 when
 under
@@ -45542,7 +44996,6 @@ referred
 to
 in
 Article
-19
 f
 ensure
 that
@@ -45562,7 +45015,6 @@ referred
 to
 in
 Article
-43
 prior
 to
 its
@@ -45587,7 +45039,6 @@ in
 accordance
 with
 Article
-47
 h
 affix
 the
@@ -45622,7 +45073,6 @@ in
 accordance
 with
 Article
-48
 i
 comply
 with
@@ -45647,7 +45097,6 @@ as
 required
 in
 Article
-20
 k
 upon
 a
@@ -45674,7 +45123,6 @@ set
 out
 in
 Section
-2
 l
 ensure
 that
@@ -45695,7 +45143,6 @@ EU
 and
 EU
 Article
-17
 Quality
 management
 system
@@ -45867,7 +45314,6 @@ set
 out
 in
 Section
-2
 the
 means
 to
@@ -45951,7 +45397,6 @@ referred
 to
 in
 Article
-9
 h
 the
 setting
@@ -45969,7 +45414,6 @@ in
 accordance
 with
 Article
-72
 i
 procedures
 related
@@ -45984,7 +45428,6 @@ in
 accordance
 with
 Article
-73
 j
 the
 handling
@@ -46105,7 +45548,6 @@ aspects
 listed
 in
 paragraph
-1
 as
 part
 of
@@ -46139,7 +45581,6 @@ the
 exception
 of
 paragraph
-1
 points
 g
 h
@@ -46183,14 +45624,12 @@ referred
 to
 in
 Article
-40
 shall
 be
 taken
 into
 account
 Article
-18
 Documentation
 keeping
 into
@@ -46212,7 +45651,6 @@ referred
 to
 in
 Article
-11
 b
 the
 documentation
@@ -46225,7 +45663,6 @@ referred
 to
 in
 Article
-17
 c
 the
 documentation
@@ -46261,7 +45698,6 @@ referred
 to
 in
 Article
-47
 the
 disposal
 of
@@ -46328,7 +45764,6 @@ financial
 services
 law
 Article
-19
 Automatically
 generated
 logs
@@ -46429,7 +45864,6 @@ financial
 services
 law
 Article
-20
 Corrective
 actions
 and
@@ -46549,7 +45983,6 @@ in
 accordance
 with
 Article
-44
 in
 particular
 of
@@ -46567,7 +46000,6 @@ corrective
 action
 taken
 Article
-21
 Cooperation
 with
 competent
@@ -46594,7 +46026,6 @@ set
 out
 in
 Section
-2
 in
 a
 language
@@ -46658,12 +46089,10 @@ set
 out
 in
 Article
-78
 OJ
 L
 12.7.2024
 Article
-22
 Authorised
 representatives
 of
@@ -46750,7 +46179,6 @@ referred
 to
 in
 Article
-47
 and
 the
 technical
@@ -46759,7 +46187,6 @@ referred
 to
 in
 Article
-11
 have
 been
 drawn
@@ -46801,7 +46228,6 @@ for
 a
 period
 of
-10
 years
 after
 the
@@ -46842,7 +46268,6 @@ referred
 to
 in
 Article
-47
 the
 technical
 documentation
@@ -46899,7 +46324,6 @@ set
 out
 in
 Section
-2
 including
 access
 to
@@ -47001,7 +46425,6 @@ referred
 to
 in
 point
-3
 of
 Section
 A
@@ -47084,7 +46507,6 @@ the
 reasons
 therefor
 Article
-23
 Obligations
 of
 importers
@@ -47102,7 +46524,6 @@ referred
 to
 in
 Article
-43
 has
 been
 carried
@@ -47129,7 +46550,6 @@ in
 accordance
 with
 Article
-11
 and
 Annex
 IV
@@ -47154,7 +46574,6 @@ referred
 to
 in
 Article
-47
 and
 instructions
 for
@@ -47264,7 +46683,6 @@ set
 out
 in
 Section
-2
 service
 a
 copy
@@ -47294,7 +46712,6 @@ referred
 to
 in
 Article
-47
 information
 and
 documentation
@@ -47304,7 +46721,6 @@ referred
 to
 in
 paragraph
-5
 to
 demonstrate
 the
@@ -47322,7 +46738,6 @@ set
 out
 in
 Section
-2
 in
 a
 language
@@ -47375,7 +46790,6 @@ posed
 by
 it
 Article
-24
 Obligations
 of
 distributors
@@ -47397,7 +46811,6 @@ referred
 to
 in
 Article
-47
 and
 instructions
 for
@@ -47425,7 +46838,6 @@ laid
 down
 in
 Article
-16
 points
 b
 and
@@ -47449,7 +46861,6 @@ set
 out
 in
 Section
-2
 it
 shall
 not
@@ -47525,7 +46936,6 @@ set
 out
 in
 Section
-2
 system
 which
 it
@@ -47547,7 +46957,6 @@ set
 out
 in
 Section
-2
 shall
 take
 the
@@ -47652,9 +47061,7 @@ actions
 pursuant
 to
 paragraphs
-1
 to
-4
 necessary
 to
 demonstrate
@@ -47670,7 +47077,6 @@ set
 out
 in
 Section
-2
 a
 high
 risk
@@ -47699,7 +47105,6 @@ OJ
 L
 12.7.2024
 Article
-25
 Responsibilities
 along
 the
@@ -47724,7 +47129,6 @@ the
 provider
 under
 Article
-16
 in
 any
 of
@@ -47807,7 +47211,6 @@ system
 pursuant
 to
 Article
-6
 c
 they
 modify
@@ -47863,7 +47266,6 @@ in
 accordance
 with
 Article
-6
 market
 or
 put
@@ -48019,7 +47421,6 @@ the
 obligations
 under
 Article
-16
 under
 either
 of
@@ -48262,7 +47663,6 @@ and
 national
 law
 Article
-26
 Obligations
 of
 deployers
@@ -48286,9 +47686,7 @@ systems
 pursuant
 to
 paragraphs
-3
 and
-6
 authority
 as
 well
@@ -48354,7 +47752,6 @@ in
 accordance
 with
 Article
-72
 Where
 deployers
 have
@@ -48455,7 +47852,6 @@ reach
 the
 provider
 Article
-73
 shall
 apply
 mutatis
@@ -48675,7 +48071,6 @@ referred
 to
 in
 Article
-49
 When
 such
 deployers
@@ -48702,7 +48097,6 @@ referred
 to
 in
 Article
-71
 they
 shall
 not
@@ -48733,13 +48127,11 @@ impact
 assessment
 under
 Article
-35
 of
 Regulation
 EU
 or
 Article
-27
 of
 Directive
 EU
@@ -48781,7 +48173,6 @@ and
 no
 later
 than
-48
 hours
 by
 a
@@ -49003,13 +48394,11 @@ without
 prejudice
 to
 Article
-9
 of
 Regulation
 EU
 and
 Article
-10
 of
 Directive
 EU
@@ -49194,7 +48583,6 @@ law
 enforcement
 purposes
 Article
-13
 of
 Directive
 EU
@@ -49212,7 +48600,6 @@ implement
 this
 Regulation
 Article
-27
 Fundamental
 rights
 impact
@@ -49232,7 +48619,6 @@ area
 listed
 in
 point
-2
 of
 Annex
 III
@@ -49262,7 +48648,6 @@ referred
 to
 in
 points
-5
 b
 and
 c
@@ -49406,7 +48791,6 @@ provider
 pursuant
 to
 Article
-13
 e
 a
 description
@@ -49486,7 +48870,6 @@ elements
 listed
 in
 paragraph
-1
 has
 changed
 or
@@ -49522,7 +48905,6 @@ referred
 to
 in
 paragraph
-5
 of
 this
 Article
@@ -49552,13 +48934,11 @@ conducted
 pursuant
 to
 Article
-35
 of
 Regulation
 EU
 or
 Article
-27
 of
 Directive
 EU
@@ -49571,7 +48951,6 @@ referred
 to
 in
 paragraph
-1
 of
 this
 Article
@@ -49595,14 +48974,12 @@ a
 simplified
 manner
 SECTION
-4
 Notifying
 authorities
 and
 notified
 bodies
 Article
-28
 Notifying
 authorities
 out
@@ -49694,7 +49071,6 @@ or
 competitive
 basis
 Article
-78
 performance
 of
 their
@@ -49727,7 +49103,6 @@ of
 fundamental
 rights
 Article
-29
 Application
 of
 a
@@ -49795,7 +49170,6 @@ laid
 down
 in
 Article
-31
 Any
 valid
 document
@@ -49842,7 +49216,6 @@ laid
 down
 in
 Article
-31
 certificates
 linked
 to
@@ -49872,9 +49245,7 @@ referred
 to
 in
 paragraphs
-2
 and
-3
 of
 this
 Article
@@ -49906,14 +49277,11 @@ laid
 down
 in
 Article
-31
 Article
-30
 Notification
 procedure
 in
 Article
-31
 developed
 and
 managed
@@ -49929,7 +49297,6 @@ referred
 to
 in
 paragraph
-1
 activities
 the
 conformity
@@ -50016,7 +49383,6 @@ laid
 down
 in
 Article
-31
 are
 raised
 by
@@ -50106,7 +49472,6 @@ conformity
 assessment
 body
 Article
-31
 Requirements
 relating
 to
@@ -50320,7 +49685,6 @@ in
 accordance
 with
 Article
-78
 the
 confidentiality
 of
@@ -50512,7 +49876,6 @@ set
 out
 in
 Section
-2
 directly
 or
 be
@@ -50537,7 +49900,6 @@ of
 relevant
 standards
 Article
-32
 Presumption
 of
 conformity
@@ -50594,7 +49956,6 @@ set
 out
 in
 Article
-31
 in
 so
 far
@@ -50610,7 +49971,6 @@ OJ
 L
 12.7.2024
 Article
-33
 Subsidiaries
 of
 notified
@@ -50635,7 +49995,6 @@ laid
 down
 in
 Article
-31
 and
 shall
 inform
@@ -50686,7 +50045,6 @@ of
 the
 subcontracting
 Article
-34
 Operational
 obligations
 of
@@ -50697,7 +50055,6 @@ set
 out
 in
 Article
-43
 of
 the
 size
@@ -50786,7 +50143,6 @@ referred
 to
 in
 Article
-28
 to
 allow
 that
@@ -50810,7 +50166,6 @@ in
 this
 Section
 Article
-35
 Identification
 numbers
 and
@@ -50847,7 +50202,6 @@ up
 to
 date
 Article
-36
 Changes
 to
 notifications
@@ -51007,7 +50361,6 @@ laid
 down
 in
 Article
-31
 or
 that
 it
@@ -51075,7 +50428,6 @@ laid
 down
 in
 Article
-31
 or
 that
 it
@@ -51126,7 +50478,6 @@ the
 providers
 concerned
 within
-10
 days
 appropriate
 steps
@@ -51579,7 +50930,6 @@ completes
 its
 assessment
 within
-12
 months
 of
 the
@@ -51638,7 +50988,6 @@ which
 shall
 not
 exceed
-12
 months
 in
 total
@@ -51679,7 +51028,6 @@ notified
 bodies
 thereof
 Article
-37
 Challenge
 to
 the
@@ -51705,7 +51053,6 @@ laid
 down
 in
 Article
-31
 and
 of
 its
@@ -51731,7 +51078,6 @@ in
 accordance
 with
 Article
-78
 notification
 it
 shall
@@ -51804,7 +51150,6 @@ in
 Article
 98(2
 Article
-38
 Coordination
 of
 notified
@@ -51840,14 +51185,12 @@ of
 notified
 bodies
 paragraph
-1
 directly
 or
 through
 designated
 representatives
 Article
-39
 Conformity
 assessment
 bodies
@@ -51897,7 +51240,6 @@ laid
 down
 in
 Article
-31
 or
 they
 ensure
@@ -51907,14 +51249,12 @@ level
 of
 compliance
 SECTION
-5
 Standards
 conformity
 assessment
 certificates
 registration
 Article
-40
 Harmonised
 standards
 and
@@ -51954,7 +51294,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -51971,9 +51310,7 @@ of
 Chapter
 V
 Sections
-2
 and
-3
 of
 this
 Regulation
@@ -51997,7 +51334,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -52014,9 +51350,7 @@ in
 Chapter
 V
 Sections
-2
 and
-3
 of
 this
 Regulation
@@ -52200,7 +51534,6 @@ in
 accordance
 with
 Article
-24
 of
 Regulation
 EU
@@ -52274,20 +51607,15 @@ in
 accordance
 with
 Articles
-5
-6
 and
-7
 of
 Regulation
 EU
 No
 Article
-41
 Common
 specifications
 Section
-2
 of
 this
 Chapter
@@ -52301,9 +51629,7 @@ set
 out
 in
 Sections
-2
 and
-3
 of
 Chapter
 V
@@ -52345,7 +51671,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -52359,9 +51684,7 @@ set
 out
 in
 Sections
-2
 and
-3
 of
 Chapter
 V
@@ -52443,7 +51766,6 @@ referred
 to
 in
 Section
-2
 of
 this
 Chapter
@@ -52456,9 +51778,7 @@ referred
 to
 in
 Sections
-2
 and
-3
 of
 Chapter
 V
@@ -52506,7 +51826,6 @@ referred
 to
 in
 Article
-67
 The
 implementing
 acts
@@ -52545,7 +51864,6 @@ laid
 down
 in
 paragraph
-1
 of
 this
 Article
@@ -52555,7 +51873,6 @@ fulfilled
 to
 in
 paragraph
-1
 or
 parts
 of
@@ -52575,7 +51892,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -52591,9 +51907,7 @@ referred
 to
 in
 Sections
-2
 and
-3
 of
 Chapter
 V
@@ -52660,7 +51974,6 @@ referred
 to
 in
 paragraph
-1
 or
 parts
 thereof
@@ -52673,7 +51986,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -52687,9 +51999,7 @@ set
 out
 in
 Sections
-2
 and
-3
 of
 Chapter
 V.
@@ -52698,7 +52008,6 @@ referred
 to
 in
 paragraph
-1
 they
 shall
 duly
@@ -52717,7 +52026,6 @@ referred
 to
 in
 Section
-2
 of
 this
 Chapter
@@ -52732,10 +52040,8 @@ set
 out
 in
 Sections
-2
 and
 Section
-2
 or
 as
 applicable
@@ -52746,9 +52052,7 @@ set
 out
 in
 Sections
-2
 and
-3
 of
 Chapter
 V
@@ -52781,7 +52085,6 @@ common
 specification
 concerned
 Article
-42
 Presumption
 of
 conformity
@@ -52848,7 +52151,6 @@ set
 out
 in
 Article
-15
 of
 this
 Regulation
@@ -52870,7 +52172,6 @@ cover
 those
 requirements
 Article
-43
 Conformity
 assessment
 system
@@ -52881,7 +52182,6 @@ set
 out
 in
 Section
-2
 the
 provider
 has
@@ -52892,7 +52192,6 @@ referred
 to
 in
 Article
-40
 or
 where
 applicable
@@ -52902,7 +52201,6 @@ referred
 to
 in
 Article
-41
 the
 provider
 shall
@@ -52971,7 +52269,6 @@ set
 out
 in
 Section
-2
 the
 provider
 shall
@@ -52993,7 +52290,6 @@ referred
 to
 in
 Article
-40
 do
 not
 exist
@@ -53004,7 +52300,6 @@ referred
 to
 in
 Article
-41
 are
 not
 available
@@ -53180,7 +52475,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -53252,7 +52546,6 @@ set
 out
 in
 Section
-2
 provided
 that
 the
@@ -53344,7 +52637,6 @@ referred
 to
 in
 Article
-41
 covering
 all
 requirements
@@ -53352,7 +52644,6 @@ set
 out
 in
 Section
-2
 of
 this
 Chapter
@@ -53471,7 +52762,6 @@ OJ
 L
 12.7.2024
 and
-2
 of
 this
 Article
@@ -53487,9 +52777,7 @@ referred
 to
 in
 points
-2
 to
-8
 of
 Annex
 III
@@ -53565,7 +52853,6 @@ among
 notified
 bodies
 Article
-44
 Certificates
 easily
 understood
@@ -53736,7 +53023,6 @@ shall
 be
 available
 Article
-45
 Information
 obligations
 of
@@ -53896,7 +53182,6 @@ conformity
 assessment
 results
 Article
-46
 Derogation
 from
 conformity
@@ -54027,7 +53312,6 @@ referred
 to
 in
 paragraph
-1
 provided
 that
 such
@@ -54049,7 +53333,6 @@ referred
 to
 in
 paragraph
-1
 is
 refused
 the
@@ -54090,7 +53373,6 @@ the
 requirements
 of
 Section
-2
 The
 market
 surveillance
@@ -54111,9 +53393,7 @@ issued
 pursuant
 to
 paragraphs
-1
 and
-2
 This
 obligation
 shall
@@ -54158,7 +53438,6 @@ in
 accordance
 with
 paragraph
-1
 that
 authorisation
 shall
@@ -54212,7 +53491,6 @@ referred
 to
 in
 paragraph
-3
 to
 be
 unfounded
@@ -54295,7 +53573,6 @@ legislation
 shall
 apply
 Article
-47
 EU
 declaration
 of
@@ -54318,7 +53595,6 @@ national
 competent
 authorities
 for
-10
 years
 after
 the
@@ -54378,7 +53654,6 @@ OJ
 L
 12.7.2024
 Section
-2
 The
 EU
 declaration
@@ -54479,7 +53754,6 @@ set
 out
 in
 Section
-2
 The
 provider
 shall
@@ -54522,7 +53796,6 @@ of
 technical
 progress
 Article
-48
 CE
 marking
 interface
@@ -54579,7 +53852,6 @@ set
 out
 in
 Article
-43
 The
 identification
 number
@@ -54652,7 +53924,6 @@ that
 other
 law
 Article
-49
 Registration
 high
 risk
@@ -54662,7 +53933,6 @@ referred
 to
 in
 point
-2
 of
 Annex
 III
@@ -54688,7 +53958,6 @@ referred
 to
 in
 Article
-71
 high
 risk
 according
@@ -54717,12 +53986,10 @@ referred
 to
 in
 Article
-71
 systems
 listed
 in
 point
-2
 of
 Annex
 III
@@ -54761,7 +54028,6 @@ referred
 to
 in
 Article
-71
 asylum
 and
 border
@@ -54773,10 +54039,7 @@ referred
 to
 in
 paragraphs
-1
-2
 and
-3
 of
 this
 Article
@@ -54796,7 +54059,6 @@ referred
 to
 in
 Article
-71
 and
 shall
 include
@@ -54813,9 +54075,7 @@ a
 Section
 A
 points
-1
 to
-10
 of
 Annex
 VIII
@@ -54824,22 +54084,15 @@ the
 exception
 of
 points
-6
-8
 and
-9
 b
 Section
 B
 points
-1
 to
-5
 and
 points
-8
 and
-9
 of
 Annex
 VIII
@@ -54847,19 +54100,13 @@ c
 Section
 C
 points
-1
 to
-3
 of
 Annex
 VIII
 d
 points
-1
-2
-3
 and
-5
 of
 Annex
 IX
@@ -54907,7 +54154,6 @@ CERTAIN
 AI
 SYSTEMS
 Article
-50
 Transparency
 obligations
 for
@@ -55454,7 +54700,6 @@ laid
 down
 in
 Article
-56
 If
 it
 deems
@@ -55497,11 +54742,9 @@ PURPOSE
 AI
 MODELS
 SECTION
-1
 Classification
 rules
 Article
-51
 Classification
 of
 general
@@ -55571,7 +54814,6 @@ out
 in
 point
 a
-2
 A
 general
 purpose
@@ -55588,7 +54830,6 @@ capabilities
 pursuant
 to
 paragraph
-1
 point
 a
 when
@@ -55610,9 +54851,7 @@ is
 greater
 than
 paragraphs
-1
 and
-2
 of
 this
 Article
@@ -55651,7 +54890,6 @@ of
 the
 art
 Article
-52
 Procedure
 shall
 notify
@@ -55860,7 +55098,6 @@ in
 accordance
 with
 Article
-97
 in
 order
 to
@@ -55882,7 +55119,6 @@ risk
 pursuant
 to
 paragraph
-4
 the
 Commission
 shall
@@ -56015,7 +55251,6 @@ and
 national
 law
 SECTION
-2
 Obligations
 for
 providers
@@ -56025,7 +55260,6 @@ purpose
 AI
 models
 Article
-53
 Obligations
 for
 providers
@@ -56331,7 +55565,6 @@ set
 out
 in
 paragraph
-1
 of
 this
 Article
@@ -56407,7 +55640,6 @@ in
 accordance
 with
 Article
-97
 to
 detail
 measurement
@@ -56439,9 +55671,7 @@ set
 out
 in
 Article
-78
 Article
-54
 Authorised
 representatives
 of
@@ -56528,12 +55758,10 @@ referred
 to
 in
 Article
-53
 and
 where
 applicable
 Article
-55
 have
 been
 fulfilled
@@ -56567,7 +55795,6 @@ for
 a
 period
 of
-10
 years
 after
 the
@@ -56770,7 +55997,6 @@ present
 systemic
 risks
 SECTION
-3
 Obligations
 of
 providers
@@ -56783,7 +56009,6 @@ with
 systemic
 risk
 Article
-55
 Obligations
 of
 providers
@@ -56924,7 +56149,6 @@ of
 the
 model
 Article
-56
 to
 demonstrate
 compliance
@@ -56935,7 +56159,6 @@ set
 out
 in
 paragraph
-1
 of
 this
 Article
@@ -57014,14 +56237,11 @@ set
 out
 in
 Article
-78
 SECTION
-4
 Codes
 of
 practice
 Article
-56
 Codes
 of
 practice
@@ -57038,9 +56258,7 @@ account
 international
 approaches
 Articles
-53
 and
-55
 including
 the
 following
@@ -57318,9 +56536,7 @@ provided
 for
 in
 Articles
-53
 and
-55
 and
 shall
 regularly
@@ -57406,7 +56622,6 @@ provided
 for
 in
 Article
-53
 unless
 they
 declare
@@ -57440,12 +56655,9 @@ providers
 pursuant
 to
 paragraph
-7
 If
 by
-2
 August
-2025
 a
 code
 of
@@ -57469,7 +56681,6 @@ its
 assessment
 under
 paragraph
-6
 of
 this
 Article
@@ -57494,9 +56705,7 @@ provided
 for
 in
 Articles
-53
 and
-55
 including
 the
 issues
@@ -57504,7 +56713,6 @@ set
 out
 in
 paragraph
-2
 of
 this
 Article
@@ -57532,7 +56740,6 @@ SUPPORT
 OF
 INNOVATION
 Article
-57
 AI
 regulatory
 sandboxes
@@ -57542,9 +56749,7 @@ shall
 be
 operational
 by
-2
 August
-2026
 That
 sandbox
 may
@@ -58567,7 +57772,6 @@ authorities
 where
 relevant
 Article
-58
 Detailed
 arrangements
 for
@@ -58831,7 +58035,6 @@ referred
 to
 in
 Article
-95
 f
 that
 AI
@@ -59164,7 +58367,6 @@ across
 the
 Union
 Article
-59
 Further
 processing
 of
@@ -59330,7 +58532,6 @@ in
 Chapter
 III
 Section
-2
 where
 those
 requirements
@@ -59374,14 +58575,12 @@ referred
 to
 in
 Article
-35
 of
 Regulation
 EU
 and
 in
 Article
-39
 of
 Regulation
 EU
@@ -59735,7 +58934,6 @@ referred
 to
 in
 paragraph
-1
 purposes
 than
 those
@@ -59794,7 +58992,6 @@ of
 personal
 data
 Article
-60
 Testing
 of
 high
@@ -59845,7 +59042,6 @@ the
 prohibitions
 under
 Article
-5
 The
 Commission
 shall
@@ -60043,7 +59239,6 @@ provided
 an
 answer
 within
-30
 days
 the
 testing
@@ -60109,10 +59304,7 @@ referred
 to
 in
 points
-1
-6
 and
-7
 of
 Annex
 III
@@ -60137,7 +59329,6 @@ referred
 to
 in
 point
-2
 of
 Annex
 III
@@ -60184,7 +59375,6 @@ referred
 to
 in
 points
-1
 the
 testing
 in
@@ -60235,7 +59425,6 @@ referred
 to
 in
 point
-2
 of
 Annex
 III
@@ -60465,7 +59654,6 @@ referred
 to
 in
 Article
-13
 the
 provider
 or
@@ -60530,7 +59718,6 @@ in
 accordance
 with
 Article
-61
 or
 in
 the
@@ -60761,7 +59948,6 @@ in
 accordance
 with
 Article
-73
 The
 provider
 or
@@ -60858,7 +60044,6 @@ real
 world
 conditions
 Article
-61
 Informed
 consent
 to
@@ -61033,7 +60218,6 @@ Article
 obtained
 representative
 Article
-62
 Measures
 for
 providers
@@ -61195,7 +60379,6 @@ conformity
 assessment
 under
 Article
-43
 reducing
 those
 fees
@@ -61251,7 +60434,6 @@ to
 AI
 systems
 Article
-63
 Derogations
 for
 specific
@@ -61262,7 +60444,6 @@ system
 required
 by
 Article
-17
 of
 this
 Regulation
@@ -61351,28 +60532,18 @@ those
 established
 in
 Articles
-9
-10
-11
-12
-13
-14
-15
 CHAPTER
 VII
 GOVERNANCE
 SECTION
-1
 Governance
 at
 Union
 level
 Article
-64
 AI
 Office
 Article
-65
 Establishment
 and
 structure
@@ -61440,7 +60611,6 @@ referred
 to
 in
 Article
-66
 b
 are
 designated
@@ -61597,7 +60767,6 @@ the
 meaning
 of
 Article
-30
 of
 Regulation
 EU
@@ -61631,7 +60800,6 @@ referred
 to
 in
 Article
-67
 may
 be
 invited
@@ -61682,7 +60850,6 @@ rules
 of
 procedure
 Article
-66
 Tasks
 of
 the
@@ -61825,7 +60992,6 @@ referred
 to
 in
 Article
-46
 the
 functioning
 of
@@ -61842,10 +61008,7 @@ referred
 to
 in
 Articles
-57
-59
 and
-60
 e
 at
 the
@@ -61919,7 +61082,6 @@ Regulation
 pursuant
 to
 Article
-112
 including
 as
 regards
@@ -61931,7 +61093,6 @@ referred
 to
 in
 Article
-73
 and
 the
 functioning
@@ -61943,7 +61104,6 @@ referred
 to
 in
 Article
-71
 the
 preparation
 of
@@ -61985,7 +61145,6 @@ in
 Chapter
 III
 Section
-2
 OJ
 L
 12.7.2024
@@ -62003,9 +61162,7 @@ referred
 to
 in
 Articles
-40
 and
-41
 v
 trends
 such
@@ -62062,7 +61219,6 @@ in
 accordance
 with
 Article
-7
 and
 on
 the
@@ -62073,11 +61229,9 @@ possible
 revision
 of
 Article
-5
 pursuant
 to
 Article
-112
 taking
 into
 account
@@ -62361,7 +61515,6 @@ purpose
 AI
 models
 Article
-67
 Advisory
 forum
 to
@@ -62411,7 +61564,6 @@ and
 other
 undertakings
 paragraph
-2
 from
 amongst
 stakeholders
@@ -62453,7 +61605,6 @@ set
 out
 in
 paragraph
-2
 The
 term
 of
@@ -62484,7 +61635,6 @@ of
 this
 Regulation
 Article
-68
 Scientific
 panel
 of
@@ -62537,7 +61687,6 @@ set
 out
 in
 paragraph
-3
 and
 shall
 be
@@ -62644,7 +61793,6 @@ in
 accordance
 with
 Article
-90
 ii
 contributing
 to
@@ -62761,7 +61909,6 @@ procedure
 pursuant
 to
 Article
-81
 confidentiality
 of
 information
@@ -62790,7 +61937,6 @@ their
 tasks
 under
 paragraph
-3
 Each
 expert
 shall
@@ -62854,7 +62000,6 @@ the
 scientific
 panel
 Article
-69
 Access
 to
 the
@@ -62934,7 +62079,6 @@ support
 pursuant
 to
 Article
-84
 and
 experts
 pursuant
@@ -62952,12 +62096,10 @@ possible
 added
 value
 SECTION
-2
 National
 competent
 authorities
 Article
-70
 Designation
 of
 national
@@ -63096,9 +62238,7 @@ electronic
 communication
 means
 by
-2
 August
-2025
 Member
 States
 shall
@@ -63236,7 +62376,6 @@ set
 out
 in
 Article
-78
 of
 the
 financial
@@ -63346,7 +62485,6 @@ RISK
 AI
 SYSTEMS
 Article
-71
 EU
 database
 for
@@ -63363,9 +62501,7 @@ referred
 to
 in
 paragraphs
-2
 and
-3
 of
 this
 Article
@@ -63386,9 +62522,7 @@ in
 accordance
 with
 Articles
-49
 and
-60
 and
 AI
 systems
@@ -63414,7 +62548,6 @@ Article
 6(4
 and
 Article
-49
 When
 setting
 the
@@ -63472,7 +62605,6 @@ in
 accordance
 with
 Article
-49
 shall
 be
 accessible
@@ -63500,7 +62632,6 @@ in
 accordance
 with
 Article
-60
 shall
 be
 accessible
@@ -63597,12 +62728,10 @@ AND
 MARKET
 SURVEILLANCE
 SECTION
-1
 Post
 market
 monitoring
 Article
-72
 Post
 market
 monitoring
@@ -63679,7 +62808,6 @@ in
 Chapter
 III
 Section
-2
 Where
 relevant
 post
@@ -63756,9 +62884,7 @@ in
 the
 plan
 by
-2
 February
-2026
 That
 implementing
 act
@@ -63815,17 +62941,13 @@ elements
 described
 in
 paragraphs
-1
-2
 and
-3
 using
 the
 template
 referred
 in
 paragraph
-3
 into
 systems
 and
@@ -63862,7 +62984,6 @@ referred
 to
 in
 point
-5
 of
 Annex
 III
@@ -63895,7 +63016,6 @@ arrangements
 or
 processes
 SECTION
-2
 Sharing
 of
 information
@@ -63903,7 +63023,6 @@ on
 serious
 incidents
 Article
-73
 Reporting
 of
 serious
@@ -63965,7 +63084,6 @@ incident
 defined
 in
 Article
-3
 point(b
 the
 report
@@ -63973,7 +63091,6 @@ referred
 to
 in
 paragraph
-1
 of
 this
 Article
@@ -64029,7 +63146,6 @@ but
 not
 later
 than
-10
 days
 after
 the
@@ -64176,7 +63292,6 @@ set
 out
 in
 paragraph
-1
 of
 this
 Article
@@ -64186,9 +63301,7 @@ shall
 be
 issued
 by
-2
 August
-2025
 and
 shall
 be
@@ -64208,7 +63321,6 @@ referred
 to
 in
 paragraph
-1
 of
 this
 Article
@@ -64254,7 +63366,6 @@ referred
 to
 in
 Article
-3
 point(c
 point(c
 of
@@ -64291,15 +63402,12 @@ in
 accordance
 with
 Article
-20
 of
 Regulation
 EU
 SECTION
-3
 Enforcement
 Article
-74
 Market
 surveillance
 and
@@ -64738,10 +63846,7 @@ systems
 listed
 in
 points
-6
-7
 and
-8
 of
 Annex
 III
@@ -64789,9 +63894,7 @@ laid
 down
 in
 Articles
-41
 to
-44
 of
 Directive
 EU
@@ -64950,7 +64053,6 @@ in
 accordance
 with
 Article
-9
 of
 Regulation
 EU
@@ -65064,7 +64166,6 @@ in
 Chapter
 III
 Section
-2
 and
 b
 testing
@@ -65096,9 +64197,7 @@ set
 out
 in
 Article
-78
 Article
-75
 Mutual
 assistance
 market
@@ -65277,7 +64376,6 @@ in
 any
 event
 within
-30
 days
 any
 information
@@ -65319,7 +64417,6 @@ in
 accordance
 with
 Article
-78
 of
 this
 Regulation
@@ -65338,7 +64435,6 @@ apply
 mutatis
 mutandis
 Article
-76
 Supervision
 of
 testing
@@ -65360,7 +64456,6 @@ L
 sandbox
 under
 Article
-58
 the
 market
 surveillance
@@ -65371,7 +64466,6 @@ the
 compliance
 with
 Article
-60
 as
 part
 of
@@ -65430,9 +64524,7 @@ set
 out
 in
 Articles
-60
 and
-61
 are
 not
 met
@@ -65545,7 +64637,6 @@ the
 testing
 plan
 Article
-77
 Powers
 of
 authorities
@@ -65684,7 +64775,6 @@ referred
 to
 in
 paragraph
-1
 may
 make
 a
@@ -65752,9 +64842,7 @@ set
 out
 in
 Article
-78
 Article
-78
 Confidentiality
 in
 the
@@ -65823,7 +64911,6 @@ referred
 to
 in
 Article
-5
 of
 Directive
 EU
@@ -65990,10 +65077,7 @@ referred
 to
 in
 point
-1
-6
 or
-7
 of
 Annex
 III
@@ -66062,7 +65146,6 @@ referred
 to
 in
 point
-1
 authorities
 Those
 authorities
@@ -66195,7 +65278,6 @@ level
 of
 confidentiality
 Article
-79
 Procedure
 at
 national
@@ -66235,7 +65317,6 @@ referred
 to
 in
 paragraph
-1
 of
 this
 Article
@@ -66319,7 +65400,6 @@ to
 in
 Article
 77(1
-57
 Directive
 EU
 of
@@ -66331,9 +65411,7 @@ of
 the
 Council
 of
-8
 June
-2016
 on
 the
 protection
@@ -66355,7 +65433,6 @@ and
 disclosure
 6.2016
 p.
-1
 OJ
 L
 12.7.2024
@@ -66458,7 +65535,6 @@ within
 the
 shorter
 of
-15
 working
 days
 or
@@ -66483,7 +65559,6 @@ notified
 body
 accordingly
 Article
-18
 of
 Regulation
 EU
@@ -66540,7 +65615,6 @@ the
 Union
 market
 paragraph
-2
 the
 market
 surveillance
@@ -66686,7 +65760,6 @@ referred
 to
 in
 Article
-5
 b
 a
 failure
@@ -66705,7 +65778,6 @@ in
 Chapter
 III
 Section
-2
 c
 shortcomings
 in
@@ -66719,9 +65791,7 @@ referred
 to
 in
 Articles
-40
 and
-41
 conferring
 a
 presumption
@@ -66732,7 +65802,6 @@ non
 compliance
 with
 Article
-50
 procedure
 shall
 without
@@ -66837,7 +65906,6 @@ in
 accordance
 with
 Article
-18
 of
 Regulation
 EU
@@ -66854,7 +65922,6 @@ shall
 be
 reduced
 to
-30
 days
 in
 the
@@ -66873,7 +65940,6 @@ referred
 to
 in
 Article
-5
 of
 this
 Regulation
@@ -66900,7 +65966,6 @@ without
 undue
 delay
 Article
-80
 Procedure
 for
 dealing
@@ -67082,7 +66147,6 @@ referred
 to
 in
 paragraph
-2
 of
 this
 Article
@@ -67097,7 +66161,6 @@ in
 accordance
 with
 Article
-99
 it
 has
 made
@@ -67108,7 +66171,6 @@ Union
 market
 in
 paragraph
-2
 of
 this
 Article
@@ -67143,7 +66205,6 @@ in
 Chapter
 III
 Section
-2
 the
 provider
 shall
@@ -67155,7 +66216,6 @@ in
 accordance
 with
 Article
-99
 information
 stored
 in
@@ -67166,12 +66226,10 @@ referred
 to
 in
 Article
-71
 of
 this
 Regulation
 Article
-81
 Union
 safeguard
 procedure
@@ -67188,7 +66246,6 @@ referred
 to
 in
 Article
-5
 objections
 are
 raised
@@ -67270,7 +66327,6 @@ six
 months
 or
 within
-60
 days
 in
 the
@@ -67289,7 +66345,6 @@ referred
 to
 in
 Article
-5
 starting
 from
 the
@@ -67406,9 +66461,7 @@ referred
 to
 in
 Articles
-40
 and
-41
 of
 this
 Regulation
@@ -67422,13 +66475,11 @@ provided
 for
 in
 Article
-11
 of
 Regulation
 EU
 No
 Article
-82
 Compliant
 AI
 systems
@@ -67555,9 +66606,7 @@ referred
 to
 in
 paragraph
-1
 paragraph
-1
 That
 information
 shall
@@ -67648,7 +66697,6 @@ other
 Member
 States
 Article
-83
 Formal
 non
 compliance
@@ -67680,7 +66728,6 @@ in
 violation
 of
 Article
-48
 b
 the
 CE
@@ -67699,7 +66746,6 @@ referred
 to
 in
 Article
-47
 has
 not
 been
@@ -67715,7 +66761,6 @@ referred
 to
 in
 Article
-47
 has
 not
 been
@@ -67733,7 +66778,6 @@ referred
 to
 in
 Article
-71
 has
 not
 been
@@ -67791,7 +66835,6 @@ market
 without
 delay
 Article
-84
 Union
 AI
 testing
@@ -67826,10 +66869,8 @@ market
 surveillance
 authorities
 SECTION
-4
 Remedies
 Article
-85
 Right
 to
 lodge
@@ -67916,7 +66957,6 @@ market
 surveillance
 authorities
 Article
-86
 Right
 to
 explanation
@@ -67937,7 +66977,6 @@ systems
 listed
 under
 point
-2
 thereof
 and
 which
@@ -68018,7 +67057,6 @@ law
 Union
 law
 Article
-87
 Reporting
 of
 infringements
@@ -68048,7 +67086,6 @@ reporting
 such
 infringements
 SECTION
-5
 Supervision
 investigation
 enforcement
@@ -68064,7 +67101,6 @@ purpose
 AI
 models
 Article
-88
 Enforcement
 of
 the
@@ -68079,7 +67115,6 @@ models
 guarantees
 under
 Article
-94
 The
 Commission
 shall
@@ -68145,7 +67180,6 @@ OJ
 L
 12.7.2024
 Article
-89
 Monitoring
 actions
 actions
@@ -68257,7 +67291,6 @@ its
 own
 initiative
 Article
-90
 Alerts
 of
 systemic
@@ -68293,16 +67326,13 @@ measure
 according
 to
 Articles
-91
 to
-94
 gathered
 on
 its
 own
 initiative
 Article
-91
 Power
 to
 request
@@ -68318,9 +67348,7 @@ in
 accordance
 with
 Articles
-53
 and
-55
 or
 any
 additional
@@ -68394,7 +67422,6 @@ provided
 for
 in
 Article
-101
 for
 supplying
 incorrect
@@ -68478,14 +67505,12 @@ incorrect
 or
 misleading
 Article
-92
 Power
 to
 conduct
 evaluations
 to
 Article
-91
 is
 insufficient
 or
@@ -68528,7 +67553,6 @@ established
 pursuant
 to
 Article
-68
 Independent
 experts
 appointed
@@ -68569,7 +67593,6 @@ provided
 for
 in
 Article
-101
 for
 failure
 to
@@ -68694,7 +67717,6 @@ mitigate
 such
 risks
 Article
-93
 Power
 to
 request
@@ -68715,7 +67737,6 @@ in
 accordance
 with
 Article
-92
 has
 given
 rise
@@ -68784,7 +67805,6 @@ grounds
 for
 action
 Article
-94
 Procedural
 rights
 of
@@ -68797,7 +67817,6 @@ purpose
 AI
 model
 Article
-18
 of
 Regulation
 EU
@@ -68834,7 +67853,6 @@ CONDUCT
 AND
 GUIDELINES
 Article
-95
 Codes
 of
 conduct
@@ -68875,7 +67893,6 @@ in
 Chapter
 III
 Section
-2
 taking
 into
 account
@@ -69111,7 +68128,6 @@ codes
 of
 conduct
 Article
-96
 Guidelines
 from
 the
@@ -69152,7 +68168,6 @@ set
 out
 in
 Article
-3
 point
 When
 issuing
@@ -69229,9 +68244,7 @@ referred
 to
 in
 Articles
-40
 and
-41
 or
 of
 those
@@ -69263,7 +68276,6 @@ AND
 COMMITTEE
 PROCEDURE
 Article
-97
 Exercise
 of
 the
@@ -69292,9 +68304,7 @@ of
 five
 years
 from
-1
 August
-2024
 The
 Commission
 shall
@@ -69445,9 +68455,7 @@ the
 Interinstitutional
 Agreement
 of
-13
 April
-2016
 on
 Better
 Law
@@ -69548,7 +68556,6 @@ of
 the
 Council
 Article
-98
 Committee
 procedure
 Regulation
@@ -69558,7 +68565,6 @@ CHAPTER
 XII
 PENALTIES
 Article
-99
 Penalties
 penalties
 and
@@ -69610,7 +68616,6 @@ Commission
 pursuant
 to
 Article
-96
 The
 penalties
 provided
@@ -69651,7 +68656,6 @@ referred
 to
 in
 paragraph
-1
 and
 shall
 notify
@@ -69669,9 +68673,6 @@ of
 up
 to
 EUR
-35
-000
-000
 or
 if
 the
@@ -69681,7 +68682,6 @@ an
 undertaking
 up
 to
-7
 of
 its
 total
@@ -69699,7 +68699,6 @@ higher
 down
 in
 Articles
-5
 shall
 be
 subject
@@ -69710,9 +68709,6 @@ of
 up
 to
 EUR
-15
-000
-000
 or
 if
 the
@@ -69722,7 +68718,6 @@ an
 undertaking
 up
 to
-3
 of
 its
 total
@@ -69744,7 +68739,6 @@ providers
 pursuant
 to
 Article
-16
 b
 obligations
 of
@@ -69753,7 +68747,6 @@ representatives
 pursuant
 to
 Article
-22
 c
 obligations
 of
@@ -69761,7 +68754,6 @@ importers
 pursuant
 to
 Article
-23
 d
 obligations
 of
@@ -69769,7 +68761,6 @@ distributors
 pursuant
 to
 Article
-24
 e
 obligations
 of
@@ -69777,7 +68768,6 @@ deployers
 pursuant
 to
 Article
-26
 f
 requirements
 and
@@ -69788,13 +68778,11 @@ bodies
 pursuant
 to
 Article
-31
 Article
 33(1
 and
 or
 Article
-34
 g
 transparency
 obligations
@@ -69805,7 +68793,6 @@ deployers
 pursuant
 to
 Article
-50
 reply
 to
 a
@@ -69820,9 +68807,6 @@ of
 up
 to
 EUR
-7
-500
-000
 or
 if
 the
@@ -69836,10 +68820,7 @@ referred
 to
 in
 paragraphs
-3
-4
 and
-5
 whichever
 thereof
 is
@@ -70181,7 +69162,6 @@ or
 judicial
 proceedings
 Article
-100
 Administrative
 fines
 on
@@ -70450,14 +69430,10 @@ of
 up
 to
 EUR
-1
-500
-000
 laid
 down
 in
 Article
-5
 shall
 be
 subject
@@ -70468,8 +69444,6 @@ of
 up
 to
 EUR
-750
-000
 institution
 body
 office
@@ -70599,7 +69573,6 @@ it
 has
 initiated
 Article
-101
 Fines
 for
 providers
@@ -70617,9 +69590,6 @@ financial
 year
 or
 EUR
-15
-000
-000
 whichever
 is
 higher
@@ -70657,7 +69627,6 @@ information
 pursuant
 to
 Article
-91
 or
 supplied
 incorrect
@@ -70675,7 +69644,6 @@ measure
 requested
 under
 Article
-93
 d
 failed
 to
@@ -70709,7 +69677,6 @@ evaluation
 pursuant
 to
 Article
-92
 In
 fixing
 the
@@ -70768,7 +69735,6 @@ in
 accordance
 with
 Article
-56
 the
 provider
 of
@@ -70812,7 +69778,6 @@ decisions
 pursuant
 to
 paragraph
-1
 of
 this
 Article
@@ -70838,7 +69803,6 @@ XIII
 FINAL
 PROVISIONS
 Article
-102
 Amendment
 to
 Regulation
@@ -70899,7 +69863,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -70919,9 +69882,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -70952,7 +69913,6 @@ Artificial
 Intelligence
 Act
 Article
-103
 Amendment
 to
 Regulation
@@ -71009,7 +69969,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71029,9 +69988,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71065,7 +70022,6 @@ OJ
 L
 12.7.2024
 Article
-104
 Amendment
 to
 Regulation
@@ -71122,7 +70078,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71142,9 +70097,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71175,14 +70128,12 @@ Artificial
 Intelligence
 Act
 Article
-105
 Amendment
 to
 Directive
 /EU
 In
 Article
-8
 of
 Directive
 /EU
@@ -71191,7 +70142,6 @@ following
 paragraph
 is
 added
-5
 For
 Artificial
 Intelligence
@@ -71222,7 +70172,6 @@ activities
 pursuant
 to
 paragraph
-1
 and
 when
 adopting
@@ -71235,9 +70184,7 @@ in
 accordance
 with
 paragraphs
-2
 and
-3
 the
 Commission
 shall
@@ -71252,7 +70199,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71267,9 +70213,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71300,14 +70244,12 @@ Artificial
 Intelligence
 Act
 Article
-106
 Amendment
 to
 Directive
 EU
 In
 Article
-5
 of
 Directive
 EU
@@ -71316,7 +70258,6 @@ following
 paragraph
 is
 added
-12
 When
 adopting
 delegated
@@ -71324,14 +70265,12 @@ acts
 pursuant
 to
 paragraph
-1
 and
 implementing
 acts
 pursuant
 to
 paragraph
-11
 concerning
 Artificial
 Intelligence
@@ -71362,7 +70301,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71382,9 +70320,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71415,14 +70351,12 @@ Artificial
 Intelligence
 Act
 Article
-107
 Amendment
 to
 Regulation
 EU
 In
 Article
-5
 of
 Regulation
 EU
@@ -71431,7 +70365,6 @@ following
 paragraph
 is
 added
-4
 When
 adopting
 delegated
@@ -71439,7 +70372,6 @@ acts
 pursuant
 to
 paragraph
-3
 concerning
 Artificial
 Intelligence
@@ -71470,7 +70402,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71490,9 +70421,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71523,7 +70452,6 @@ Artificial
 Intelligence
 Act
 Article
-108
 Amendments
 to
 Regulation
@@ -71536,18 +70464,15 @@ as
 follows
 in
 Article
-17
 the
 following
 paragraph
 is
 added
-3
 Without
 prejudice
 to
 paragraph
-2
 when
 adopting
 implementing
@@ -71555,7 +70480,6 @@ acts
 pursuant
 to
 paragraph
-1
 concerning
 Artificial
 Intelligence
@@ -71586,7 +70510,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71606,9 +70529,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71640,13 +70561,11 @@ Intelligence
 Act
 in
 Article
-19
 the
 following
 paragraph
 is
 added
-4
 When
 adopting
 delegated
@@ -71654,9 +70573,7 @@ acts
 pursuant
 to
 paragraphs
-1
 and
-2
 concerning
 Artificial
 Intelligence
@@ -71679,7 +70596,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71690,13 +70606,11 @@ into
 account
 in
 Article
-43
 the
 following
 paragraph
 is
 added
-4
 When
 adopting
 implementing
@@ -71704,7 +70618,6 @@ acts
 pursuant
 to
 paragraph
-1
 concerning
 Artificial
 Intelligence
@@ -71727,7 +70640,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71738,13 +70650,11 @@ into
 account
 in
 Article
-47
 the
 following
 paragraph
 is
 added
-3
 When
 adopting
 delegated
@@ -71752,9 +70662,7 @@ acts
 pursuant
 to
 paragraphs
-1
 and
-2
 concerning
 Artificial
 Intelligence
@@ -71777,7 +70685,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71788,7 +70695,6 @@ into
 account
 in
 Article
-57
 the
 following
 subparagraph
@@ -71821,7 +70727,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71835,13 +70740,11 @@ L
 12.7.2024
 in
 Article
-58
 the
 following
 paragraph
 is
 added
-3
 When
 adopting
 delegated
@@ -71849,9 +70752,7 @@ acts
 pursuant
 to
 paragraphs
-1
 and
-2
 concerning
 Artificial
 Intelligence
@@ -71874,7 +70775,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71884,14 +70784,12 @@ taken
 into
 account
 Article
-109
 Amendment
 to
 Regulation
 EU
 In
 Article
-11
 of
 Regulation
 EU
@@ -71900,7 +70798,6 @@ following
 paragraph
 is
 added
-3
 When
 adopting
 the
@@ -71909,7 +70806,6 @@ acts
 pursuant
 to
 paragraph
-2
 concerning
 artificial
 intelligence
@@ -71940,7 +70836,6 @@ in
 Chapter
 III
 Section
-2
 of
 that
 Regulation
@@ -71960,9 +70855,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -71993,7 +70886,6 @@ Artificial
 Intelligence
 Act
 Article
-110
 Amendment
 to
 Directive
@@ -72017,7 +70909,6 @@ following
 point
 is
 added
-68
 Regulation
 EU
 of
@@ -72029,9 +70920,7 @@ of
 the
 Council
 of
-13
 June
-2024
 laying
 down
 harmonised
@@ -72062,7 +70951,6 @@ Artificial
 Intelligence
 Act
 Article
-111
 AI
 systems
 already
@@ -72112,9 +71000,7 @@ put
 into
 service
 before
-2
 August
-2027
 shall
 be
 brought
@@ -72124,9 +71010,7 @@ with
 this
 Regulation
 by
-31
 December
-2030
 The
 requirements
 laid
@@ -72191,7 +71075,6 @@ referred
 to
 in
 paragraph
-1
 of
 this
 Article
@@ -72207,9 +71090,7 @@ put
 into
 service
 before
-2
 August
-2026
 only
 if
 as
@@ -72261,7 +71142,6 @@ of
 this
 Regulation
 by
-2
 August
 necessary
 steps
@@ -72278,10 +71158,7 @@ in
 this
 Regulation
 by
-2
 August
-2027
-58
 Directive
 EU
 of
@@ -72293,9 +71170,7 @@ of
 the
 Council
 of
-25
 November
-2020
 on
 representative
 actions
@@ -72314,9 +71189,7 @@ Directive
 /EC
 12.2020
 p.
-1
 Article
-112
 Evaluation
 and
 review
@@ -72325,7 +71198,6 @@ laid
 down
 in
 Article
-5
 once
 a
 year
@@ -72353,7 +71225,6 @@ laid
 down
 in
 Article
-97
 The
 Commission
 shall
@@ -72409,7 +71280,6 @@ transparency
 measures
 in
 Article
-50
 c
 amendments
 enhancing
@@ -72677,7 +71547,6 @@ in
 Chapter
 III
 Section
-2
 for
 AI
 systems
@@ -72833,7 +71702,6 @@ set
 out
 in
 Article
-5
 and
 c
 the
@@ -72848,7 +71716,6 @@ measures
 pursuant
 to
 Article
-50
 concerns
 sectoral
 Union
@@ -72952,7 +71819,6 @@ any
 identified
 shortcomings
 Article
-113
 Entry
 into
 force
@@ -72983,9 +71849,7 @@ It
 shall
 apply
 from
-2
 August
-2026
 However
 a
 Chapters
@@ -72995,14 +71859,11 @@ II
 shall
 apply
 from
-2
 February
-2025
 b
 Chapter
 III
 Section
-4
 Chapter
 V
 Chapter
@@ -73012,19 +71873,15 @@ Chapter
 XII
 and
 Article
-78
 shall
 apply
 from
-2
 August
-2025
 with
 the
 exception
 of
 Article
-101
 c
 Article
 6(1
@@ -73038,9 +71895,7 @@ Regulation
 shall
 apply
 from
-2
 August
-2027
 This
 Regulation
 shall
@@ -73059,9 +71914,7 @@ States
 Done
 at
 Brussels
-13
 June
-2024
 For
 the
 European
@@ -73101,7 +71954,6 @@ Directive
 /EC
 6.2006
 p.
-24
 and
 personal
 watercraft
@@ -73111,7 +71963,6 @@ Directive
 /EC
 12.2013
 p.
-90
 the
 laws
 of
@@ -73128,7 +71979,6 @@ for
 lifts
 3.2014
 p.
-251
 the
 laws
 of
@@ -73150,7 +72000,6 @@ explosive
 atmospheres
 3.2014
 p.
-309
 laws
 of
 the
@@ -73173,7 +72022,6 @@ Directive
 /EC
 5.2014
 p.
-62
 laws
 of
 the
@@ -73197,7 +72045,6 @@ Directive
 /EC
 3.2016
 p.
-1
 equipment
 and
 repealing
@@ -73206,7 +72053,6 @@ Directive
 /EEC
 3.2016
 p.
-51
 gaseous
 fuels
 and
@@ -73215,7 +72061,6 @@ Directive
 /EC
 3.2016
 p.
-99
 amending
 Directive
 /EC
@@ -73235,7 +72080,6 @@ and
 /EEC
 5.2017
 p.
-1
 medical
 devices
 and
@@ -73248,7 +72092,6 @@ Decision
 /EU
 5.2017
 p.
-176
 Section
 B.
 List
@@ -73271,7 +72114,6 @@ EC
 No
 4.2008
 p.
-72
 and
 market
 surveillance
@@ -73285,7 +72127,6 @@ and
 quadricycles
 3.2013
 p.
-52
 and
 market
 surveillance
@@ -73296,7 +72137,6 @@ forestry
 vehicles
 3.2013
 p.
-1
 OJ
 L
 12.7.2024
@@ -73306,7 +72146,6 @@ Directive
 /EC
 8.2014
 p.
-146
 the
 rail
 system
@@ -73316,7 +72155,6 @@ European
 Union
 5.2016
 p.
-44
 market
 surveillance
 of
@@ -73350,7 +72188,6 @@ Directive
 /EC
 6.2018
 p.
-1
 requirements
 for
 motor
@@ -73450,7 +72287,6 @@ and
 EU
 12.2019
 p.
-1
 field
 of
 civil
@@ -74947,7 +73783,6 @@ in
 Chapter
 III
 Section
-2
 c
 the
 description
@@ -75054,7 +73889,6 @@ in
 accordance
 with
 Article
-14
 including
 an
 assessment
@@ -75130,7 +73964,6 @@ in
 Chapter
 III
 Section
-2
 g
 the
 validation
@@ -75169,7 +74002,6 @@ in
 Chapter
 III
 Section
-2
 as
 well
 as
@@ -75286,7 +74118,6 @@ in
 accordance
 with
 Article
-14
 including
 the
 technical
@@ -75342,7 +74173,6 @@ in
 Chapter
 III
 Section
-2
 including
 a
 list
@@ -75357,7 +74187,6 @@ applied
 accordance
 with
 Article
-72
 including
 the
 post
@@ -75384,7 +74213,6 @@ referred
 to
 in
 Article
-47
 shall
 contain
 all
@@ -75414,7 +74242,6 @@ referred
 to
 in
 Article
-47
 Regulations
 EU
 and
@@ -75459,12 +74286,8 @@ on
 internal
 control
 points
-2
-3
 and
-4
 Article
-17
 of
 the
 AI
@@ -75480,13 +74303,11 @@ in
 Chapter
 III
 Section
-2
 as
 referred
 to
 in
 Article
-72
 is
 consistent
 with
@@ -75537,9 +74358,7 @@ procedure
 based
 on
 points
-2
 to
-5
 The
 approved
 quality
@@ -75557,7 +74376,6 @@ systems
 pursuant
 to
 Article
-17
 shall
 be
 examined
@@ -75565,7 +74383,6 @@ in
 accordance
 with
 point
-3
 and
 shall
 be
@@ -75576,7 +74393,6 @@ as
 specified
 in
 point
-5
 The
 technical
 documentation
@@ -75591,7 +74407,6 @@ in
 accordance
 with
 point
-4
 name
 and
 address
@@ -75640,7 +74455,6 @@ aspects
 listed
 under
 Article
-17
 e
 a
 description
@@ -75682,7 +74496,6 @@ referred
 to
 in
 Article
-17
 The
 decision
 shall
@@ -75836,7 +74649,6 @@ referred
 to
 under
 point
-3
 OJ
 L
 12.7.2024
@@ -75910,7 +74722,6 @@ in
 Chapter
 III
 Section
-2
 Where
 the
 notified
@@ -75939,7 +74750,6 @@ tests
 as
 appropriate
 Section
-2
 after
 all
 other
@@ -76034,7 +74844,6 @@ in
 Chapter
 III
 Section
-2
 the
 notified
 body
@@ -76132,7 +74941,6 @@ in
 Chapter
 III
 Section
-2
 the
 notified
 body
@@ -76452,7 +75260,6 @@ in
 accordance
 with
 Article
-49
 Section
 A
 Information
@@ -76531,10 +75338,7 @@ in
 Annex
 III
 points
-1
-6
 and
-7
 Section
 B
 Information
@@ -76641,7 +75445,6 @@ Article
 49(3
 or
 Article
-27
 of
 Directive
 EU
@@ -76685,7 +75488,6 @@ in
 accordance
 with
 Article
-60
 The
 following
 information
@@ -76713,7 +75515,6 @@ in
 accordance
 with
 Article
-60
 real
 world
 conditions
@@ -76765,9 +75566,7 @@ of
 the
 Council
 of
-28
 November
-2018
 on
 the
 establishment
@@ -76803,7 +75602,6 @@ EC
 No
 12.2018
 p.
-14
 c
 Regulation
 EU
@@ -76816,9 +75614,7 @@ of
 the
 Council
 of
-28
 November
-2018
 on
 the
 establishment
@@ -76868,7 +75664,6 @@ Decision
 /EU
 12.2018
 p.
-56
 Regulations
 EU
 No
@@ -76900,7 +75695,6 @@ Information
 System
 7.2021
 p.
-1
 b
 Regulation
 EU
@@ -76913,9 +75707,7 @@ of
 the
 Council
 of
-7
 July
-2021
 amending
 Regulations
 EC
@@ -76956,7 +75748,6 @@ Information
 System
 7.2021
 p.
-11
 Regulation
 EU
 of
@@ -76968,9 +75759,7 @@ of
 the
 Council
 of
-14
 May
-2024
 on
 the
 establishment
@@ -77072,9 +75861,7 @@ of
 the
 Council
 of
-30
 November
-2017
 establishing
 an
 Entry
@@ -77134,7 +75921,6 @@ EU
 No
 12.2017
 p.
-20
 a
 European
 Travel
@@ -77166,9 +75952,7 @@ of
 the
 Council
 of
-12
 September
-2018
 amending
 Regulation
 EU
@@ -77187,7 +75971,6 @@ System
 ETIAS
 9.2018
 p.
-72
 Regulation
 EU
 of
@@ -77199,9 +75982,7 @@ of
 the
 Council
 of
-17
 April
-2019
 establishing
 a
 centralised
@@ -77238,7 +76019,6 @@ Regulation
 EU
 5.2019
 p.
-1
 a
 framework
 for
@@ -77281,7 +76061,6 @@ and
 /JHA
 5.2019
 p.
-27
 b
 Regulation
 EU
@@ -77294,9 +76073,7 @@ of
 the
 Council
 of
-20
 May
-2019
 on
 establishing
 a
@@ -77327,7 +76104,6 @@ and
 EU
 5.2019
 p.
-85
 OJ
 L
 12.7.2024
@@ -77352,7 +76128,6 @@ purpose
 AI
 models
 Section
-1
 Information
 to
 be
@@ -77629,7 +76404,6 @@ computational
 resources
 used
 Section
-2
 Additional
 information
 to
@@ -77895,7 +76669,6 @@ referred
 to
 in
 Article
-51
 For
 the
 purpose
@@ -78108,8 +76881,6 @@ available
 to
 at
 least
-10
-000
 registered
 business
 users
