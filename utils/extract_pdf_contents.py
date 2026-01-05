@@ -1,6 +1,5 @@
 import os
-import PyPDF2
-import pdfplumber
+import pdfplumber # type: ignore
 
 def extract_text_from_pdf(pdf_path):
     """Extract text from a single PDF file using pdfplumber."""

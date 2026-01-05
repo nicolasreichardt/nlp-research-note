@@ -1,4 +1,4 @@
-from gensim.models import Word2Vec, KeyedVectors
+from gensim.models import Word2Vec, KeyedVectors # type: ignore
 import numpy as np
 
 class Word2VecModel:
@@ -137,3 +137,51 @@ class Word2VecModel:
             raise ValueError("Model has not been trained or loaded yet.")
         doc_vector = self.document_vector(tokens)
         return kv.similar_by_vector(doc_vector, topn=topn)
+
+    def filter_to_vocabulary(self, tokens, stop_words=None, min_length=2):
+        """
+        Filter pretrained embeddings to only include words from the given tokens.
+        
+        :param tokens: List of tokens to filter to.
+        :param stop_words: List of stopwords to exclude.
+        :param min_length: Minimum word length to include.
+        :return: Tuple of (filtered_words, filtered_embeddings as numpy array)
+        """
+        if stop_words is None:
+            stop_words = []
+        
+        # Get unique tokens that pass filters
+        unique_tokens = set()
+        for token in tokens:
+            token_lower = token.lower()
+            if (token_lower not in stop_words and 
+                len(token) > min_length and 
+                token.isalpha()):
+                unique_tokens.add(token_lower)
+        
+        # Filter to words that exist in the model
+        filtered_words = []
+        filtered_embeddings = []
+        
+        for word in unique_tokens:
+            if word in self.model:
+                filtered_words.append(word)
+                filtered_embeddings.append(self.get_vector(word))
+        
+        return filtered_words, np.array(filtered_embeddings) if filtered_embeddings else np.array([])
+
+    def get_document_vocabulary_embeddings(self, tokens_list, stop_words=None, min_length=2):
+        """
+        Get embeddings for vocabulary from multiple document token lists.
+        
+        :param tokens_list: List of token lists from multiple documents.
+        :param stop_words: List of stopwords to exclude.
+        :param min_length: Minimum word length to include.
+        :return: Tuple of (filtered_words, filtered_embeddings as numpy array)
+        """
+        # Combine all tokens
+        all_tokens = []
+        for tokens in tokens_list:
+            all_tokens.extend(tokens)
+        
+        return self.filter_to_vocabulary(all_tokens, stop_words, min_length)
