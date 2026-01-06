@@ -1,5 +1,3 @@
-![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
-
 # GRAD-E1282: Natural Language Processing
 # Instructor: Dr. Sascha Göbel
 
@@ -7,16 +5,12 @@
 
 ---
 
-## Exploring Themes in AI Regulation: A Comparative NLP Study between the EU and the USA
+## NLP-Driven Analysis of AI Regulation: Comparing the EU AI Act and U.S. AI Executive Order
 
 ## Abstract
 This project explores the themes and topics surrounding AI regulation in Europe and the USA using Natural Language Processing (NLP) techniques. Through text extraction, cleaning, tokenization, and feature extraction, the project aims to uncover insights from the two main legal documents: (1) the EU AI Act and (2) the American AI Executive Order . The analysis is conducted as part of my NLP class at the Hertie School taught by Dr. Sascha Göbel.
 
-See the accompanying [paper](PLACEHOLDER.pdf).
-
-## Overview
-
-ADD OVERVIEW HERE
+For more information and results, see the accompanying [paper](PLACEHOLDER.pdf).
 
 ---
 
@@ -28,19 +22,20 @@ nlp-research-note/
 │   ├── extracted_text/          # Extracted text from PDFs
 │   ├── cleaned_text/            # Cleaned text files
 │   ├── tokens/                  # Tokenized text files
-│   ├── tfidf_values/            # TF-IDF values
 │   ├── embeddings/              # Word2Vec embeddings
 ├── notebooks/
 │   ├── NLP_pipeline.ipynb       # Main Jupyter notebook for the pipeline
 ├── utils/
 │   ├── extract_pdf_contents.py  # PDF text extraction utility
 │   ├── clean_texts.py           # Text cleaning utility
-│   ├── TFIDF_model.py           # TF-IDF computation utility
-│   ├── word2vec_module.py       # Word2Vec model utility
-│   ├── tsne_visualization.py    # t-SNE visualization utility
-├── plots/                       # Directory for saving plots
-├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation
+│   ├── BoW_model.py             # Bag-of-Words 
+│   ├── word_frequency.py        # Frequency distribution
+│   ├── word2vec_module.py       # Word2Vec model 
+│   ├── tsne_visualization.py    # t-SNE visualization 
+├── plots/                       
+├── requirements.txt
+├── PLACEHOLDER.txt            
+├── README.md                    
 ```
 
 ---
@@ -92,7 +87,7 @@ model = api.load("word2vec-google-news-300")
 - **Text Extraction**: Extracts text from legal PDF documents.
 - **Text Cleaning**: Cleans and preprocesses the extracted text.
 - **Tokenization**: Tokenizes the cleaned text using SpaCy.
-- **Feature Extraction**: Computes Bag of Words (BoW), TF-IDF, and Word2Vec embeddings.
+- **Feature Extraction**: Computes Bag of Words (BoW) and Word2Vec embeddings.
 - **Visualization**: Generates t-SNE plots for Word2Vec embeddings.
 - **Mathematical Analysis**: Measures similarity and performs dimensionality reduction.
 
