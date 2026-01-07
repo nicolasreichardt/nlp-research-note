@@ -10,7 +10,7 @@
 ## Abstract
 This project explores the themes and topics surrounding AI regulation in Europe and the USA using Natural Language Processing (NLP) techniques. Through text extraction, cleaning, tokenization, and feature extraction, the project aims to uncover insights from the two main legal documents: (1) the EU AI Act and (2) the American AI Executive Order . The analysis is conducted as part of my NLP class at the Hertie School taught by Dr. Sascha Göbel.
 
-For more information and results, see the accompanying [paper](PLACEHOLDER.pdf).
+For more information and results, see the accompanying [paper](NLP_Research_Note_Reichardt.pdf).
 
 ---
 
@@ -34,7 +34,7 @@ nlp-research-note/
 │   ├── tsne_visualization.py    # t-SNE visualization 
 ├── plots/                       
 ├── requirements.txt
-├── PLACEHOLDER.txt            
+├── NLP_Research_Note_Reichardt.pdf            
 ├── README.md                    
 ```
 
